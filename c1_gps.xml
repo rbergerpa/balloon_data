@@ -1,0 +1,3468 @@
+<?xml version="1.0"?>
+<dataset2>
+  <Count Data="256">
+    <UTC>2012-11-11,18:13:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.814037</Lat>
+    <Lon>-81.913269</Lon>
+    <HGT>308</HGT>
+  </Count>
+  <Count Data="257">
+    <UTC>2012-11-11,18:14:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.814037</Lat>
+    <Lon>-81.913269</Lon>
+    <HGT>308</HGT>
+  </Count>
+  <Count Data="258">
+    <UTC>2012-11-11,18:14:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.814049</Lat>
+    <Lon>-81.913261</Lon>
+    <HGT>308</HGT>
+  </Count>
+  <Count Data="259">
+    <UTC>2012-11-11,18:14:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.814068</Lat>
+    <Lon>-81.913277</Lon>
+    <HGT>307</HGT>
+  </Count>
+  <Count Data="260">
+    <UTC>2012-11-11,18:14:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.814079</Lat>
+    <Lon>-81.913292</Lon>
+    <HGT>307</HGT>
+  </Count>
+  <Count Data="261">
+    <UTC>2012-11-11,18:15:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.814144</Lat>
+    <Lon>-81.913269</Lon>
+    <HGT>307</HGT>
+  </Count>
+  <Count Data="262">
+    <UTC>2012-11-11,18:15:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.814774</Lat>
+    <Lon>-81.912781</Lon>
+    <HGT>355</HGT>
+  </Count>
+  <Count Data="263">
+    <UTC>2012-11-11,18:15:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.815746</Lat>
+    <Lon>-81.911667</Lon>
+    <HGT>435</HGT>
+  </Count>
+  <Count Data="264">
+    <UTC>2012-11-11,18:15:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.817051</Lat>
+    <Lon>-81.910904</Lon>
+    <HGT>547</HGT>
+  </Count>
+  <Count Data="265">
+    <UTC>2012-11-11,18:16:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.818417</Lat>
+    <Lon>-81.909569</Lon>
+    <HGT>644</HGT>
+  </Count>
+  <Count Data="266">
+    <UTC>2012-11-11,18:16:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.819889</Lat>
+    <Lon>-81.908142</Lon>
+    <HGT>739</HGT>
+  </Count>
+  <Count Data="267">
+    <UTC>2012-11-11,18:16:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.821365</Lat>
+    <Lon>-81.906723</Lon>
+    <HGT>841</HGT>
+  </Count>
+  <Count Data="268">
+    <UTC>2012-11-11,18:16:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.823124</Lat>
+    <Lon>-81.905739</Lon>
+    <HGT>939</HGT>
+  </Count>
+  <Count Data="269">
+    <UTC>2012-11-11,18:17:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.824989</Lat>
+    <Lon>-81.90435</Lon>
+    <HGT>1035</HGT>
+  </Count>
+  <Count Data="270">
+    <UTC>2012-11-11,18:17:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.826969</Lat>
+    <Lon>-81.903122</Lon>
+    <HGT>1129</HGT>
+  </Count>
+  <Count Data="271">
+    <UTC>2012-11-11,18:17:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.828922</Lat>
+    <Lon>-81.901932</Lon>
+    <HGT>1222</HGT>
+  </Count>
+  <Count Data="272">
+    <UTC>2012-11-11,18:17:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.83099</Lat>
+    <Lon>-81.900581</Lon>
+    <HGT>1311</HGT>
+  </Count>
+  <Count Data="273">
+    <UTC>2012-11-11,18:18:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.833252</Lat>
+    <Lon>-81.899536</Lon>
+    <HGT>1395</HGT>
+  </Count>
+  <Count Data="274">
+    <UTC>2012-11-11,18:18:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.835617</Lat>
+    <Lon>-81.898056</Lon>
+    <HGT>1476</HGT>
+  </Count>
+  <Count Data="275">
+    <UTC>2012-11-11,18:18:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.83821</Lat>
+    <Lon>-81.896507</Lon>
+    <HGT>1554</HGT>
+  </Count>
+  <Count Data="276">
+    <UTC>2012-11-11,18:18:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.840897</Lat>
+    <Lon>-81.894463</Lon>
+    <HGT>1641</HGT>
+  </Count>
+  <Count Data="277">
+    <UTC>2012-11-11,18:19:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.843765</Lat>
+    <Lon>-81.892365</Lon>
+    <HGT>1732</HGT>
+  </Count>
+  <Count Data="278">
+    <UTC>2012-11-11,18:19:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.846844</Lat>
+    <Lon>-81.889923</Lon>
+    <HGT>1814</HGT>
+  </Count>
+  <Count Data="279">
+    <UTC>2012-11-11,18:19:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.849628</Lat>
+    <Lon>-81.887642</Lon>
+    <HGT>1899</HGT>
+  </Count>
+  <Count Data="280">
+    <UTC>2012-11-11,18:19:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.852188</Lat>
+    <Lon>-81.885826</Lon>
+    <HGT>1971</HGT>
+  </Count>
+  <Count Data="281">
+    <UTC>2012-11-11,18:20:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.85482</Lat>
+    <Lon>-81.883926</Lon>
+    <HGT>2060</HGT>
+  </Count>
+  <Count Data="282">
+    <UTC>2012-11-11,18:20:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.857189</Lat>
+    <Lon>-81.882286</Lon>
+    <HGT>2146</HGT>
+  </Count>
+  <Count Data="283">
+    <UTC>2012-11-11,18:20:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.86011</Lat>
+    <Lon>-81.880669</Lon>
+    <HGT>2233</HGT>
+  </Count>
+  <Count Data="284">
+    <UTC>2012-11-11,18:20:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.862999</Lat>
+    <Lon>-81.87941</Lon>
+    <HGT>2326</HGT>
+  </Count>
+  <Count Data="285">
+    <UTC>2012-11-11,18:21:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.866119</Lat>
+    <Lon>-81.878349</Lon>
+    <HGT>2417</HGT>
+  </Count>
+  <Count Data="286">
+    <UTC>2012-11-11,18:21:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.869289</Lat>
+    <Lon>-81.877403</Lon>
+    <HGT>2504</HGT>
+  </Count>
+  <Count Data="287">
+    <UTC>2012-11-11,18:21:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.872421</Lat>
+    <Lon>-81.876274</Lon>
+    <HGT>2606</HGT>
+  </Count>
+  <Count Data="288">
+    <UTC>2012-11-11,18:21:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.87587</Lat>
+    <Lon>-81.875092</Lon>
+    <HGT>2693</HGT>
+  </Count>
+  <Count Data="289">
+    <UTC>2012-11-11,18:22:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.879337</Lat>
+    <Lon>-81.873634</Lon>
+    <HGT>2791</HGT>
+  </Count>
+  <Count Data="290">
+    <UTC>2012-11-11,18:22:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.882545</Lat>
+    <Lon>-81.872063</Lon>
+    <HGT>2881</HGT>
+  </Count>
+  <Count Data="291">
+    <UTC>2012-11-11,18:22:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.886044</Lat>
+    <Lon>-81.870522</Lon>
+    <HGT>2979</HGT>
+  </Count>
+  <Count Data="292">
+    <UTC>2012-11-11,18:22:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.889206</Lat>
+    <Lon>-81.868942</Lon>
+    <HGT>3072</HGT>
+  </Count>
+  <Count Data="293">
+    <UTC>2012-11-11,18:23:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.892277</Lat>
+    <Lon>-81.867455</Lon>
+    <HGT>3181</HGT>
+  </Count>
+  <Count Data="294">
+    <UTC>2012-11-11,18:23:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.895115</Lat>
+    <Lon>-81.865768</Lon>
+    <HGT>3286</HGT>
+  </Count>
+  <Count Data="295">
+    <UTC>2012-11-11,18:23:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.897999</Lat>
+    <Lon>-81.864273</Lon>
+    <HGT>3365</HGT>
+  </Count>
+  <Count Data="296">
+    <UTC>2012-11-11,18:23:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.900967</Lat>
+    <Lon>-81.862579</Lon>
+    <HGT>3464</HGT>
+  </Count>
+  <Count Data="297">
+    <UTC>2012-11-11,18:24:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.903603</Lat>
+    <Lon>-81.860733</Lon>
+    <HGT>3562</HGT>
+  </Count>
+  <Count Data="298">
+    <UTC>2012-11-11,18:24:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.906219</Lat>
+    <Lon>-81.858978</Lon>
+    <HGT>3665</HGT>
+  </Count>
+  <Count Data="299">
+    <UTC>2012-11-11,18:24:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.908916</Lat>
+    <Lon>-81.856987</Lon>
+    <HGT>3761</HGT>
+  </Count>
+  <Count Data="300">
+    <UTC>2012-11-11,18:24:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.91132</Lat>
+    <Lon>-81.855095</Lon>
+    <HGT>3855</HGT>
+  </Count>
+  <Count Data="301">
+    <UTC>2012-11-11,18:25:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.913704</Lat>
+    <Lon>-81.85273</Lon>
+    <HGT>3940</HGT>
+  </Count>
+  <Count Data="302">
+    <UTC>2012-11-11,18:25:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.916035</Lat>
+    <Lon>-81.850639</Lon>
+    <HGT>4033</HGT>
+  </Count>
+  <Count Data="303">
+    <UTC>2012-11-11,18:25:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.918255</Lat>
+    <Lon>-81.849037</Lon>
+    <HGT>4138</HGT>
+  </Count>
+  <Count Data="304">
+    <UTC>2012-11-11,18:25:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.920151</Lat>
+    <Lon>-81.84729</Lon>
+    <HGT>4224</HGT>
+  </Count>
+  <Count Data="305">
+    <UTC>2012-11-11,18:26:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.921997</Lat>
+    <Lon>-81.845444</Lon>
+    <HGT>4311</HGT>
+  </Count>
+  <Count Data="306">
+    <UTC>2012-11-11,18:26:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.92392</Lat>
+    <Lon>-81.843987</Lon>
+    <HGT>4405</HGT>
+  </Count>
+  <Count Data="307">
+    <UTC>2012-11-11,18:26:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.925671</Lat>
+    <Lon>-81.842751</Lon>
+    <HGT>4495</HGT>
+  </Count>
+  <Count Data="308">
+    <UTC>2012-11-11,18:26:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.927719</Lat>
+    <Lon>-81.841759</Lon>
+    <HGT>4583</HGT>
+  </Count>
+  <Count Data="309">
+    <UTC>2012-11-11,18:27:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.929768</Lat>
+    <Lon>-81.840157</Lon>
+    <HGT>4675</HGT>
+  </Count>
+  <Count Data="310">
+    <UTC>2012-11-11,18:27:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.931892</Lat>
+    <Lon>-81.838753</Lon>
+    <HGT>4765</HGT>
+  </Count>
+  <Count Data="311">
+    <UTC>2012-11-11,18:27:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.934029</Lat>
+    <Lon>-81.83754</Lon>
+    <HGT>4860</HGT>
+  </Count>
+  <Count Data="312">
+    <UTC>2012-11-11,18:27:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.936337</Lat>
+    <Lon>-81.836464</Lon>
+    <HGT>4952</HGT>
+  </Count>
+  <Count Data="313">
+    <UTC>2012-11-11,18:28:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.938606</Lat>
+    <Lon>-81.834892</Lon>
+    <HGT>5034</HGT>
+  </Count>
+  <Count Data="314">
+    <UTC>2012-11-11,18:28:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.94091</Lat>
+    <Lon>-81.833229</Lon>
+    <HGT>5121</HGT>
+  </Count>
+  <Count Data="315">
+    <UTC>2012-11-11,18:28:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.943153</Lat>
+    <Lon>-81.832146</Lon>
+    <HGT>5225</HGT>
+  </Count>
+  <Count Data="316">
+    <UTC>2012-11-11,18:28:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.945236</Lat>
+    <Lon>-81.831009</Lon>
+    <HGT>5316</HGT>
+  </Count>
+  <Count Data="317">
+    <UTC>2012-11-11,18:29:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.947399</Lat>
+    <Lon>-81.829857</Lon>
+    <HGT>5412</HGT>
+  </Count>
+  <Count Data="318">
+    <UTC>2012-11-11,18:29:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.949497</Lat>
+    <Lon>-81.828278</Lon>
+    <HGT>5509</HGT>
+  </Count>
+  <Count Data="319">
+    <UTC>2012-11-11,18:29:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.951588</Lat>
+    <Lon>-81.826088</Lon>
+    <HGT>5616</HGT>
+  </Count>
+  <Count Data="320">
+    <UTC>2012-11-11,18:29:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.954269</Lat>
+    <Lon>-81.82386</Lon>
+    <HGT>5710</HGT>
+  </Count>
+  <Count Data="321">
+    <UTC>2012-11-11,18:30:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.956787</Lat>
+    <Lon>-81.821915</Lon>
+    <HGT>5807</HGT>
+  </Count>
+  <Count Data="322">
+    <UTC>2012-11-11,18:30:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.959385</Lat>
+    <Lon>-81.820145</Lon>
+    <HGT>5908</HGT>
+  </Count>
+  <Count Data="323">
+    <UTC>2012-11-11,18:30:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.961838</Lat>
+    <Lon>-81.817612</Lon>
+    <HGT>6003</HGT>
+  </Count>
+  <Count Data="324">
+    <UTC>2012-11-11,18:30:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.964104</Lat>
+    <Lon>-81.815186</Lon>
+    <HGT>6105</HGT>
+  </Count>
+  <Count Data="325">
+    <UTC>2012-11-11,18:31:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.965919</Lat>
+    <Lon>-81.812645</Lon>
+    <HGT>6207</HGT>
+  </Count>
+  <Count Data="326">
+    <UTC>2012-11-11,18:31:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.96781</Lat>
+    <Lon>-81.809807</Lon>
+    <HGT>6308</HGT>
+  </Count>
+  <Count Data="327">
+    <UTC>2012-11-11,18:31:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.969597</Lat>
+    <Lon>-81.806976</Lon>
+    <HGT>6404</HGT>
+  </Count>
+  <Count Data="328">
+    <UTC>2012-11-11,18:31:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.971481</Lat>
+    <Lon>-81.804321</Lon>
+    <HGT>6493</HGT>
+  </Count>
+  <Count Data="329">
+    <UTC>2012-11-11,18:32:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.973389</Lat>
+    <Lon>-81.801338</Lon>
+    <HGT>6584</HGT>
+  </Count>
+  <Count Data="330">
+    <UTC>2012-11-11,18:32:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.975372</Lat>
+    <Lon>-81.798378</Lon>
+    <HGT>6682</HGT>
+  </Count>
+  <Count Data="331">
+    <UTC>2012-11-11,18:32:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.977196</Lat>
+    <Lon>-81.795166</Lon>
+    <HGT>6782</HGT>
+  </Count>
+  <Count Data="332">
+    <UTC>2012-11-11,18:32:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.978901</Lat>
+    <Lon>-81.792068</Lon>
+    <HGT>6884</HGT>
+  </Count>
+  <Count Data="333">
+    <UTC>2012-11-11,18:33:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.981003</Lat>
+    <Lon>-81.78891</Lon>
+    <HGT>6991</HGT>
+  </Count>
+  <Count Data="334">
+    <UTC>2012-11-11,18:33:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.982727</Lat>
+    <Lon>-81.785233</Lon>
+    <HGT>7092</HGT>
+  </Count>
+  <Count Data="335">
+    <UTC>2012-11-11,18:33:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.984447</Lat>
+    <Lon>-81.781876</Lon>
+    <HGT>7186</HGT>
+  </Count>
+  <Count Data="336">
+    <UTC>2012-11-11,18:33:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.98637</Lat>
+    <Lon>-81.778404</Lon>
+    <HGT>7291</HGT>
+  </Count>
+  <Count Data="337">
+    <UTC>2012-11-11,18:34:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.988422</Lat>
+    <Lon>-81.774498</Lon>
+    <HGT>7401</HGT>
+  </Count>
+  <Count Data="338">
+    <UTC>2012-11-11,18:34:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.990189</Lat>
+    <Lon>-81.770905</Lon>
+    <HGT>7509</HGT>
+  </Count>
+  <Count Data="339">
+    <UTC>2012-11-11,18:34:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.992302</Lat>
+    <Lon>-81.767448</Lon>
+    <HGT>7624</HGT>
+  </Count>
+  <Count Data="340">
+    <UTC>2012-11-11,18:34:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.994484</Lat>
+    <Lon>-81.764389</Lon>
+    <HGT>7715</HGT>
+  </Count>
+  <Count Data="341">
+    <UTC>2012-11-11,18:35:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.996605</Lat>
+    <Lon>-81.761154</Lon>
+    <HGT>7804</HGT>
+  </Count>
+  <Count Data="342">
+    <UTC>2012-11-11,18:35:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>40.998676</Lat>
+    <Lon>-81.757835</Lon>
+    <HGT>7896</HGT>
+  </Count>
+  <Count Data="343">
+    <UTC>2012-11-11,18:35:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.000721</Lat>
+    <Lon>-81.754692</Lon>
+    <HGT>7990</HGT>
+  </Count>
+  <Count Data="344">
+    <UTC>2012-11-11,18:35:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.002594</Lat>
+    <Lon>-81.751053</Lon>
+    <HGT>8104</HGT>
+  </Count>
+  <Count Data="345">
+    <UTC>2012-11-11,18:36:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.004246</Lat>
+    <Lon>-81.747116</Lon>
+    <HGT>8199</HGT>
+  </Count>
+  <Count Data="346">
+    <UTC>2012-11-11,18:36:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.005192</Lat>
+    <Lon>-81.743004</Lon>
+    <HGT>8316</HGT>
+  </Count>
+  <Count Data="347">
+    <UTC>2012-11-11,18:36:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.005913</Lat>
+    <Lon>-81.739403</Lon>
+    <HGT>8411</HGT>
+  </Count>
+  <Count Data="348">
+    <UTC>2012-11-11,18:36:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.006596</Lat>
+    <Lon>-81.735451</Lon>
+    <HGT>8521</HGT>
+  </Count>
+  <Count Data="349">
+    <UTC>2012-11-11,18:37:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.007378</Lat>
+    <Lon>-81.731331</Lon>
+    <HGT>8634</HGT>
+  </Count>
+  <Count Data="350">
+    <UTC>2012-11-11,18:37:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.007954</Lat>
+    <Lon>-81.727989</Lon>
+    <HGT>8735</HGT>
+  </Count>
+  <Count Data="351">
+    <UTC>2012-11-11,18:37:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.008598</Lat>
+    <Lon>-81.724007</Lon>
+    <HGT>8843</HGT>
+  </Count>
+  <Count Data="352">
+    <UTC>2012-11-11,18:37:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.009384</Lat>
+    <Lon>-81.719803</Lon>
+    <HGT>8950</HGT>
+  </Count>
+  <Count Data="353">
+    <UTC>2012-11-11,18:38:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.010071</Lat>
+    <Lon>-81.716118</Lon>
+    <HGT>9052</HGT>
+  </Count>
+  <Count Data="354">
+    <UTC>2012-11-11,18:38:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.010689</Lat>
+    <Lon>-81.712318</Lon>
+    <HGT>9155</HGT>
+  </Count>
+  <Count Data="355">
+    <UTC>2012-11-11,18:38:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.011475</Lat>
+    <Lon>-81.708626</Lon>
+    <HGT>9231</HGT>
+  </Count>
+  <Count Data="356">
+    <UTC>2012-11-11,18:38:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.012299</Lat>
+    <Lon>-81.70431</Lon>
+    <HGT>9346</HGT>
+  </Count>
+  <Count Data="357">
+    <UTC>2012-11-11,18:39:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.013119</Lat>
+    <Lon>-81.700684</Lon>
+    <HGT>9446</HGT>
+  </Count>
+  <Count Data="358">
+    <UTC>2012-11-11,18:39:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.013733</Lat>
+    <Lon>-81.696434</Lon>
+    <HGT>9542</HGT>
+  </Count>
+  <Count Data="359">
+    <UTC>2012-11-11,18:39:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.014671</Lat>
+    <Lon>-81.692772</Lon>
+    <HGT>9627</HGT>
+  </Count>
+  <Count Data="360">
+    <UTC>2012-11-11,18:39:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.01548</Lat>
+    <Lon>-81.688904</Lon>
+    <HGT>9717</HGT>
+  </Count>
+  <Count Data="361">
+    <UTC>2012-11-11,18:40:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.016422</Lat>
+    <Lon>-81.685104</Lon>
+    <HGT>9808</HGT>
+  </Count>
+  <Count Data="362">
+    <UTC>2012-11-11,18:40:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.017601</Lat>
+    <Lon>-81.68148</Lon>
+    <HGT>9911</HGT>
+  </Count>
+  <Count Data="363">
+    <UTC>2012-11-11,18:40:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.018673</Lat>
+    <Lon>-81.677719</Lon>
+    <HGT>10001</HGT>
+  </Count>
+  <Count Data="364">
+    <UTC>2012-11-11,18:40:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.020336</Lat>
+    <Lon>-81.67421</Lon>
+    <HGT>10091</HGT>
+  </Count>
+  <Count Data="365">
+    <UTC>2012-11-11,18:41:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.021477</Lat>
+    <Lon>-81.670547</Lon>
+    <HGT>10198</HGT>
+  </Count>
+  <Count Data="366">
+    <UTC>2012-11-11,18:41:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.022713</Lat>
+    <Lon>-81.666443</Lon>
+    <HGT>10299</HGT>
+  </Count>
+  <Count Data="367">
+    <UTC>2012-11-11,18:41:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.024246</Lat>
+    <Lon>-81.662674</Lon>
+    <HGT>10405</HGT>
+  </Count>
+  <Count Data="368">
+    <UTC>2012-11-11,18:41:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.025978</Lat>
+    <Lon>-81.658783</Lon>
+    <HGT>10500</HGT>
+  </Count>
+  <Count Data="369">
+    <UTC>2012-11-11,18:42:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.027447</Lat>
+    <Lon>-81.654999</Lon>
+    <HGT>10580</HGT>
+  </Count>
+  <Count Data="370">
+    <UTC>2012-11-11,18:42:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.029121</Lat>
+    <Lon>-81.650299</Lon>
+    <HGT>10666</HGT>
+  </Count>
+  <Count Data="371">
+    <UTC>2012-11-11,18:42:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.030773</Lat>
+    <Lon>-81.645569</Lon>
+    <HGT>10742</HGT>
+  </Count>
+  <Count Data="372">
+    <UTC>2012-11-11,18:42:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.032654</Lat>
+    <Lon>-81.64212</Lon>
+    <HGT>10824</HGT>
+  </Count>
+  <Count Data="373">
+    <UTC>2012-11-11,18:43:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.034454</Lat>
+    <Lon>-81.63797</Lon>
+    <HGT>10918</HGT>
+  </Count>
+  <Count Data="374">
+    <UTC>2012-11-11,18:43:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.036213</Lat>
+    <Lon>-81.633705</Lon>
+    <HGT>11018</HGT>
+  </Count>
+  <Count Data="375">
+    <UTC>2012-11-11,18:43:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.037708</Lat>
+    <Lon>-81.627953</Lon>
+    <HGT>11104</HGT>
+  </Count>
+  <Count Data="376">
+    <UTC>2012-11-11,18:43:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.038548</Lat>
+    <Lon>-81.622749</Lon>
+    <HGT>11189</HGT>
+  </Count>
+  <Count Data="377">
+    <UTC>2012-11-11,18:44:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.039658</Lat>
+    <Lon>-81.617218</Lon>
+    <HGT>11252</HGT>
+  </Count>
+  <Count Data="378">
+    <UTC>2012-11-11,18:44:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.040524</Lat>
+    <Lon>-81.61174</Lon>
+    <HGT>11323</HGT>
+  </Count>
+  <Count Data="379">
+    <UTC>2012-11-11,18:44:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.041439</Lat>
+    <Lon>-81.606552</Lon>
+    <HGT>11397</HGT>
+  </Count>
+  <Count Data="380">
+    <UTC>2012-11-11,18:44:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.042286</Lat>
+    <Lon>-81.601151</Lon>
+    <HGT>11459</HGT>
+  </Count>
+  <Count Data="381">
+    <UTC>2012-11-11,18:45:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.042946</Lat>
+    <Lon>-81.59626</Lon>
+    <HGT>11528</HGT>
+  </Count>
+  <Count Data="382">
+    <UTC>2012-11-11,18:45:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.043324</Lat>
+    <Lon>-81.591606</Lon>
+    <HGT>11620</HGT>
+  </Count>
+  <Count Data="383">
+    <UTC>2012-11-11,18:45:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.043957</Lat>
+    <Lon>-81.586494</Lon>
+    <HGT>11732</HGT>
+  </Count>
+  <Count Data="384">
+    <UTC>2012-11-11,18:45:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.045021</Lat>
+    <Lon>-81.581627</Lon>
+    <HGT>11797</HGT>
+  </Count>
+  <Count Data="385">
+    <UTC>2012-11-11,18:46:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.045742</Lat>
+    <Lon>-81.576965</Lon>
+    <HGT>11863</HGT>
+  </Count>
+  <Count Data="386">
+    <UTC>2012-11-11,18:46:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.046516</Lat>
+    <Lon>-81.572144</Lon>
+    <HGT>11918</HGT>
+  </Count>
+  <Count Data="387">
+    <UTC>2012-11-11,18:46:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.047195</Lat>
+    <Lon>-81.567772</Lon>
+    <HGT>11978</HGT>
+  </Count>
+  <Count Data="388">
+    <UTC>2012-11-11,18:46:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.048035</Lat>
+    <Lon>-81.563377</Lon>
+    <HGT>12052</HGT>
+  </Count>
+  <Count Data="389">
+    <UTC>2012-11-11,18:47:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.048809</Lat>
+    <Lon>-81.558937</Lon>
+    <HGT>12132</HGT>
+  </Count>
+  <Count Data="390">
+    <UTC>2012-11-11,18:47:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.049232</Lat>
+    <Lon>-81.554375</Lon>
+    <HGT>12209</HGT>
+  </Count>
+  <Count Data="391">
+    <UTC>2012-11-11,18:47:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.049805</Lat>
+    <Lon>-81.54951</Lon>
+    <HGT>12288</HGT>
+  </Count>
+  <Count Data="392">
+    <UTC>2012-11-11,18:47:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.050388</Lat>
+    <Lon>-81.544571</Lon>
+    <HGT>12360</HGT>
+  </Count>
+  <Count Data="393">
+    <UTC>2012-11-11,18:48:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.050808</Lat>
+    <Lon>-81.539688</Lon>
+    <HGT>12439</HGT>
+  </Count>
+  <Count Data="394">
+    <UTC>2012-11-11,18:48:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.051018</Lat>
+    <Lon>-81.534973</Lon>
+    <HGT>12517</HGT>
+  </Count>
+  <Count Data="395">
+    <UTC>2012-11-11,18:48:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.051399</Lat>
+    <Lon>-81.53067</Lon>
+    <HGT>12590</HGT>
+  </Count>
+  <Count Data="396">
+    <UTC>2012-11-11,18:48:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.05172</Lat>
+    <Lon>-81.526314</Lon>
+    <HGT>12665</HGT>
+  </Count>
+  <Count Data="397">
+    <UTC>2012-11-11,18:49:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.052208</Lat>
+    <Lon>-81.521599</Lon>
+    <HGT>12740</HGT>
+  </Count>
+  <Count Data="398">
+    <UTC>2012-11-11,18:49:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.052711</Lat>
+    <Lon>-81.517319</Lon>
+    <HGT>12817</HGT>
+  </Count>
+  <Count Data="399">
+    <UTC>2012-11-11,18:49:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.053196</Lat>
+    <Lon>-81.513046</Lon>
+    <HGT>12903</HGT>
+  </Count>
+  <Count Data="400">
+    <UTC>2012-11-11,18:49:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.053833</Lat>
+    <Lon>-81.509117</Lon>
+    <HGT>12977</HGT>
+  </Count>
+  <Count Data="401">
+    <UTC>2012-11-11,18:50:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.054245</Lat>
+    <Lon>-81.50518</Lon>
+    <HGT>13052</HGT>
+  </Count>
+  <Count Data="402">
+    <UTC>2012-11-11,18:50:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.055115</Lat>
+    <Lon>-81.501213</Lon>
+    <HGT>13132</HGT>
+  </Count>
+  <Count Data="403">
+    <UTC>2012-11-11,18:50:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.056068</Lat>
+    <Lon>-81.497116</Lon>
+    <HGT>13203</HGT>
+  </Count>
+  <Count Data="404">
+    <UTC>2012-11-11,18:50:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.057163</Lat>
+    <Lon>-81.492813</Lon>
+    <HGT>13284</HGT>
+  </Count>
+  <Count Data="405">
+    <UTC>2012-11-11,18:51:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.058266</Lat>
+    <Lon>-81.488052</Lon>
+    <HGT>13360</HGT>
+  </Count>
+  <Count Data="406">
+    <UTC>2012-11-11,18:51:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.059681</Lat>
+    <Lon>-81.483109</Lon>
+    <HGT>13436</HGT>
+  </Count>
+  <Count Data="407">
+    <UTC>2012-11-11,18:51:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.061054</Lat>
+    <Lon>-81.478142</Lon>
+    <HGT>13511</HGT>
+  </Count>
+  <Count Data="408">
+    <UTC>2012-11-11,18:51:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.062344</Lat>
+    <Lon>-81.472855</Lon>
+    <HGT>13582</HGT>
+  </Count>
+  <Count Data="409">
+    <UTC>2012-11-11,18:52:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.063549</Lat>
+    <Lon>-81.467384</Lon>
+    <HGT>13663</HGT>
+  </Count>
+  <Count Data="410">
+    <UTC>2012-11-11,18:52:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.064686</Lat>
+    <Lon>-81.461784</Lon>
+    <HGT>13728</HGT>
+  </Count>
+  <Count Data="411">
+    <UTC>2012-11-11,18:52:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.065899</Lat>
+    <Lon>-81.455711</Lon>
+    <HGT>13796</HGT>
+  </Count>
+  <Count Data="412">
+    <UTC>2012-11-11,18:52:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.067333</Lat>
+    <Lon>-81.449524</Lon>
+    <HGT>13864</HGT>
+  </Count>
+  <Count Data="413">
+    <UTC>2012-11-11,18:53:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.068638</Lat>
+    <Lon>-81.442917</Lon>
+    <HGT>13935</HGT>
+  </Count>
+  <Count Data="414">
+    <UTC>2012-11-11,18:53:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.070126</Lat>
+    <Lon>-81.436058</Lon>
+    <HGT>14011</HGT>
+  </Count>
+  <Count Data="415">
+    <UTC>2012-11-11,18:53:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.071285</Lat>
+    <Lon>-81.428986</Lon>
+    <HGT>14078</HGT>
+  </Count>
+  <Count Data="416">
+    <UTC>2012-11-11,18:53:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.072414</Lat>
+    <Lon>-81.422005</Lon>
+    <HGT>14144</HGT>
+  </Count>
+  <Count Data="417">
+    <UTC>2012-11-11,18:54:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.073071</Lat>
+    <Lon>-81.415398</Lon>
+    <HGT>14207</HGT>
+  </Count>
+  <Count Data="418">
+    <UTC>2012-11-11,18:54:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.073681</Lat>
+    <Lon>-81.408585</Lon>
+    <HGT>14273</HGT>
+  </Count>
+  <Count Data="419">
+    <UTC>2012-11-11,18:54:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.074036</Lat>
+    <Lon>-81.402161</Lon>
+    <HGT>14332</HGT>
+  </Count>
+  <Count Data="420">
+    <UTC>2012-11-11,18:54:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.074322</Lat>
+    <Lon>-81.395935</Lon>
+    <HGT>14400</HGT>
+  </Count>
+  <Count Data="421">
+    <UTC>2012-11-11,18:55:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.074566</Lat>
+    <Lon>-81.390564</Lon>
+    <HGT>14461</HGT>
+  </Count>
+  <Count Data="422">
+    <UTC>2012-11-11,18:55:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.074768</Lat>
+    <Lon>-81.385475</Lon>
+    <HGT>14536</HGT>
+  </Count>
+  <Count Data="423">
+    <UTC>2012-11-11,18:55:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.075466</Lat>
+    <Lon>-81.380684</Lon>
+    <HGT>14613</HGT>
+  </Count>
+  <Count Data="424">
+    <UTC>2012-11-11,18:55:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.076302</Lat>
+    <Lon>-81.375999</Lon>
+    <HGT>14673</HGT>
+  </Count>
+  <Count Data="425">
+    <UTC>2012-11-11,18:56:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.077339</Lat>
+    <Lon>-81.371696</Lon>
+    <HGT>14748</HGT>
+  </Count>
+  <Count Data="426">
+    <UTC>2012-11-11,18:56:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.078506</Lat>
+    <Lon>-81.367355</Lon>
+    <HGT>14819</HGT>
+  </Count>
+  <Count Data="427">
+    <UTC>2012-11-11,18:56:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.079964</Lat>
+    <Lon>-81.362991</Lon>
+    <HGT>14868</HGT>
+  </Count>
+  <Count Data="428">
+    <UTC>2012-11-11,18:56:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.081619</Lat>
+    <Lon>-81.358612</Lon>
+    <HGT>14955</HGT>
+  </Count>
+  <Count Data="429">
+    <UTC>2012-11-11,18:57:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.083187</Lat>
+    <Lon>-81.353897</Lon>
+    <HGT>15028</HGT>
+  </Count>
+  <Count Data="430">
+    <UTC>2012-11-11,18:57:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.085056</Lat>
+    <Lon>-81.348953</Lon>
+    <HGT>15112</HGT>
+  </Count>
+  <Count Data="431">
+    <UTC>2012-11-11,18:57:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.08671</Lat>
+    <Lon>-81.344124</Lon>
+    <HGT>15185</HGT>
+  </Count>
+  <Count Data="432">
+    <UTC>2012-11-11,18:57:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.088467</Lat>
+    <Lon>-81.338753</Lon>
+    <HGT>15256</HGT>
+  </Count>
+  <Count Data="433">
+    <UTC>2012-11-11,18:58:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.089954</Lat>
+    <Lon>-81.333618</Lon>
+    <HGT>15331</HGT>
+  </Count>
+  <Count Data="434">
+    <UTC>2012-11-11,18:58:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.091293</Lat>
+    <Lon>-81.328323</Lon>
+    <HGT>15398</HGT>
+  </Count>
+  <Count Data="435">
+    <UTC>2012-11-11,18:58:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.092358</Lat>
+    <Lon>-81.323479</Lon>
+    <HGT>15468</HGT>
+  </Count>
+  <Count Data="436">
+    <UTC>2012-11-11,18:58:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.093277</Lat>
+    <Lon>-81.318451</Lon>
+    <HGT>15537</HGT>
+  </Count>
+  <Count Data="437">
+    <UTC>2012-11-11,18:59:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.093929</Lat>
+    <Lon>-81.314171</Lon>
+    <HGT>15589</HGT>
+  </Count>
+  <Count Data="438">
+    <UTC>2012-11-11,18:59:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.094608</Lat>
+    <Lon>-81.30957</Lon>
+    <HGT>15645</HGT>
+  </Count>
+  <Count Data="439">
+    <UTC>2012-11-11,18:59:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.095673</Lat>
+    <Lon>-81.304901</Lon>
+    <HGT>15723</HGT>
+  </Count>
+  <Count Data="440">
+    <UTC>2012-11-11,18:59:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.097073</Lat>
+    <Lon>-81.300507</Lon>
+    <HGT>15809</HGT>
+  </Count>
+  <Count Data="441">
+    <UTC>2012-11-11,19:00:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.098488</Lat>
+    <Lon>-81.295891</Lon>
+    <HGT>15887</HGT>
+  </Count>
+  <Count Data="442">
+    <UTC>2012-11-11,19:00:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.099934</Lat>
+    <Lon>-81.290909</Lon>
+    <HGT>15977</HGT>
+  </Count>
+  <Count Data="443">
+    <UTC>2012-11-11,19:00:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.101093</Lat>
+    <Lon>-81.285744</Lon>
+    <HGT>16056</HGT>
+  </Count>
+  <Count Data="444">
+    <UTC>2012-11-11,19:00:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.102409</Lat>
+    <Lon>-81.280144</Lon>
+    <HGT>16133</HGT>
+  </Count>
+  <Count Data="445">
+    <UTC>2012-11-11,19:01:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.103397</Lat>
+    <Lon>-81.274475</Lon>
+    <HGT>16206</HGT>
+  </Count>
+  <Count Data="446">
+    <UTC>2012-11-11,19:01:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.104301</Lat>
+    <Lon>-81.268463</Lon>
+    <HGT>16281</HGT>
+  </Count>
+  <Count Data="447">
+    <UTC>2012-11-11,19:01:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.104767</Lat>
+    <Lon>-81.262825</Lon>
+    <HGT>16363</HGT>
+  </Count>
+  <Count Data="448">
+    <UTC>2012-11-11,19:01:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.105122</Lat>
+    <Lon>-81.257324</Lon>
+    <HGT>16442</HGT>
+  </Count>
+  <Count Data="449">
+    <UTC>2012-11-11,19:02:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.105148</Lat>
+    <Lon>-81.252083</Lon>
+    <HGT>16514</HGT>
+  </Count>
+  <Count Data="450">
+    <UTC>2012-11-11,19:02:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.105156</Lat>
+    <Lon>-81.247513</Lon>
+    <HGT>16593</HGT>
+  </Count>
+  <Count Data="451">
+    <UTC>2012-11-11,19:02:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.105492</Lat>
+    <Lon>-81.243271</Lon>
+    <HGT>16672</HGT>
+  </Count>
+  <Count Data="452">
+    <UTC>2012-11-11,19:02:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.105526</Lat>
+    <Lon>-81.239647</Lon>
+    <HGT>16757</HGT>
+  </Count>
+  <Count Data="453">
+    <UTC>2012-11-11,19:03:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.105957</Lat>
+    <Lon>-81.236549</Lon>
+    <HGT>16856</HGT>
+  </Count>
+  <Count Data="454">
+    <UTC>2012-11-11,19:03:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.106606</Lat>
+    <Lon>-81.233597</Lon>
+    <HGT>16930</HGT>
+  </Count>
+  <Count Data="455">
+    <UTC>2012-11-11,19:03:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.107399</Lat>
+    <Lon>-81.231079</Lon>
+    <HGT>17008</HGT>
+  </Count>
+  <Count Data="456">
+    <UTC>2012-11-11,19:03:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.107815</Lat>
+    <Lon>-81.228821</Lon>
+    <HGT>17090</HGT>
+  </Count>
+  <Count Data="457">
+    <UTC>2012-11-11,19:04:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.108513</Lat>
+    <Lon>-81.226967</Lon>
+    <HGT>17166</HGT>
+  </Count>
+  <Count Data="458">
+    <UTC>2012-11-11,19:04:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.109318</Lat>
+    <Lon>-81.224472</Lon>
+    <HGT>17250</HGT>
+  </Count>
+  <Count Data="459">
+    <UTC>2012-11-11,19:04:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.109882</Lat>
+    <Lon>-81.221519</Lon>
+    <HGT>17312</HGT>
+  </Count>
+  <Count Data="460">
+    <UTC>2012-11-11,19:04:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.110558</Lat>
+    <Lon>-81.218208</Lon>
+    <HGT>17382</HGT>
+  </Count>
+  <Count Data="461">
+    <UTC>2012-11-11,19:05:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.111309</Lat>
+    <Lon>-81.215057</Lon>
+    <HGT>17463</HGT>
+  </Count>
+  <Count Data="462">
+    <UTC>2012-11-11,19:05:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.11232</Lat>
+    <Lon>-81.212181</Lon>
+    <HGT>17534</HGT>
+  </Count>
+  <Count Data="463">
+    <UTC>2012-11-11,19:05:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.113354</Lat>
+    <Lon>-81.209312</Lon>
+    <HGT>17618</HGT>
+  </Count>
+  <Count Data="464">
+    <UTC>2012-11-11,19:05:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.114063</Lat>
+    <Lon>-81.206512</Lon>
+    <HGT>17701</HGT>
+  </Count>
+  <Count Data="465">
+    <UTC>2012-11-11,19:06:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.11507</Lat>
+    <Lon>-81.204071</Lon>
+    <HGT>17769</HGT>
+  </Count>
+  <Count Data="466">
+    <UTC>2012-11-11,19:06:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.116192</Lat>
+    <Lon>-81.201134</Lon>
+    <HGT>17846</HGT>
+  </Count>
+  <Count Data="467">
+    <UTC>2012-11-11,19:06:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.116821</Lat>
+    <Lon>-81.198296</Lon>
+    <HGT>17921</HGT>
+  </Count>
+  <Count Data="468">
+    <UTC>2012-11-11,19:06:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.117657</Lat>
+    <Lon>-81.195084</Lon>
+    <HGT>17987</HGT>
+  </Count>
+  <Count Data="469">
+    <UTC>2012-11-11,19:07:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.118134</Lat>
+    <Lon>-81.191803</Lon>
+    <HGT>18067</HGT>
+  </Count>
+  <Count Data="470">
+    <UTC>2012-11-11,19:07:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.118263</Lat>
+    <Lon>-81.18866</Lon>
+    <HGT>18134</HGT>
+  </Count>
+  <Count Data="471">
+    <UTC>2012-11-11,19:07:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.118252</Lat>
+    <Lon>-81.185516</Lon>
+    <HGT>18210</HGT>
+  </Count>
+  <Count Data="472">
+    <UTC>2012-11-11,19:07:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.117821</Lat>
+    <Lon>-81.182457</Lon>
+    <HGT>18299</HGT>
+  </Count>
+  <Count Data="473">
+    <UTC>2012-11-11,19:08:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.117352</Lat>
+    <Lon>-81.179558</Lon>
+    <HGT>18373</HGT>
+  </Count>
+  <Count Data="474">
+    <UTC>2012-11-11,19:08:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.116814</Lat>
+    <Lon>-81.176468</Lon>
+    <HGT>18438</HGT>
+  </Count>
+  <Count Data="475">
+    <UTC>2012-11-11,19:08:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.116516</Lat>
+    <Lon>-81.174072</Lon>
+    <HGT>18501</HGT>
+  </Count>
+  <Count Data="476">
+    <UTC>2012-11-11,19:08:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.116108</Lat>
+    <Lon>-81.17171</Lon>
+    <HGT>18582</HGT>
+  </Count>
+  <Count Data="477">
+    <UTC>2012-11-11,19:09:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.115887</Lat>
+    <Lon>-81.16983</Lon>
+    <HGT>18663</HGT>
+  </Count>
+  <Count Data="478">
+    <UTC>2012-11-11,19:09:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.115643</Lat>
+    <Lon>-81.168015</Lon>
+    <HGT>18744</HGT>
+  </Count>
+  <Count Data="479">
+    <UTC>2012-11-11,19:09:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.115543</Lat>
+    <Lon>-81.166367</Lon>
+    <HGT>18817</HGT>
+  </Count>
+  <Count Data="480">
+    <UTC>2012-11-11,19:09:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.115738</Lat>
+    <Lon>-81.164734</Lon>
+    <HGT>18883</HGT>
+  </Count>
+  <Count Data="481">
+    <UTC>2012-11-11,19:10:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.11591</Lat>
+    <Lon>-81.163322</Lon>
+    <HGT>18956</HGT>
+  </Count>
+  <Count Data="482">
+    <UTC>2012-11-11,19:10:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.116383</Lat>
+    <Lon>-81.162079</Lon>
+    <HGT>19027</HGT>
+  </Count>
+  <Count Data="483">
+    <UTC>2012-11-11,19:10:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.116985</Lat>
+    <Lon>-81.161049</Lon>
+    <HGT>19106</HGT>
+  </Count>
+  <Count Data="484">
+    <UTC>2012-11-11,19:10:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.117851</Lat>
+    <Lon>-81.159203</Lon>
+    <HGT>19193</HGT>
+  </Count>
+  <Count Data="485">
+    <UTC>2012-11-11,19:11:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.118717</Lat>
+    <Lon>-81.156876</Lon>
+    <HGT>19265</HGT>
+  </Count>
+  <Count Data="486">
+    <UTC>2012-11-11,19:11:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.119518</Lat>
+    <Lon>-81.154091</Lon>
+    <HGT>19332</HGT>
+  </Count>
+  <Count Data="487">
+    <UTC>2012-11-11,19:11:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.12009</Lat>
+    <Lon>-81.150986</Lon>
+    <HGT>19414</HGT>
+  </Count>
+  <Count Data="488">
+    <UTC>2012-11-11,19:11:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.120735</Lat>
+    <Lon>-81.147499</Lon>
+    <HGT>19484</HGT>
+  </Count>
+  <Count Data="489">
+    <UTC>2012-11-11,19:12:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.121208</Lat>
+    <Lon>-81.144211</Lon>
+    <HGT>19566</HGT>
+  </Count>
+  <Count Data="490">
+    <UTC>2012-11-11,19:12:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.121372</Lat>
+    <Lon>-81.141647</Lon>
+    <HGT>19642</HGT>
+  </Count>
+  <Count Data="491">
+    <UTC>2012-11-11,19:12:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.121414</Lat>
+    <Lon>-81.139084</Lon>
+    <HGT>19732</HGT>
+  </Count>
+  <Count Data="492">
+    <UTC>2012-11-11,19:12:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.121632</Lat>
+    <Lon>-81.136917</Lon>
+    <HGT>19813</HGT>
+  </Count>
+  <Count Data="493">
+    <UTC>2012-11-11,19:13:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.121914</Lat>
+    <Lon>-81.135269</Lon>
+    <HGT>19875</HGT>
+  </Count>
+  <Count Data="494">
+    <UTC>2012-11-11,19:13:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.122238</Lat>
+    <Lon>-81.133934</Lon>
+    <HGT>19938</HGT>
+  </Count>
+  <Count Data="495">
+    <UTC>2012-11-11,19:13:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.122665</Lat>
+    <Lon>-81.133064</Lon>
+    <HGT>20010</HGT>
+  </Count>
+  <Count Data="496">
+    <UTC>2012-11-11,19:13:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.123535</Lat>
+    <Lon>-81.132187</Lon>
+    <HGT>20072</HGT>
+  </Count>
+  <Count Data="497">
+    <UTC>2012-11-11,19:14:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.124607</Lat>
+    <Lon>-81.131157</Lon>
+    <HGT>20145</HGT>
+  </Count>
+  <Count Data="498">
+    <UTC>2012-11-11,19:14:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.125748</Lat>
+    <Lon>-81.130348</Lon>
+    <HGT>20216</HGT>
+  </Count>
+  <Count Data="499">
+    <UTC>2012-11-11,19:14:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.127182</Lat>
+    <Lon>-81.129173</Lon>
+    <HGT>20277</HGT>
+  </Count>
+  <Count Data="500">
+    <UTC>2012-11-11,19:14:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.128342</Lat>
+    <Lon>-81.127136</Lon>
+    <HGT>20328</HGT>
+  </Count>
+  <Count Data="501">
+    <UTC>2012-11-11,19:15:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.129448</Lat>
+    <Lon>-81.125206</Lon>
+    <HGT>20394</HGT>
+  </Count>
+  <Count Data="502">
+    <UTC>2012-11-11,19:15:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.13039</Lat>
+    <Lon>-81.122696</Lon>
+    <HGT>20467</HGT>
+  </Count>
+  <Count Data="503">
+    <UTC>2012-11-11,19:15:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.131268</Lat>
+    <Lon>-81.120155</Lon>
+    <HGT>20528</HGT>
+  </Count>
+  <Count Data="504">
+    <UTC>2012-11-11,19:15:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.131878</Lat>
+    <Lon>-81.117935</Lon>
+    <HGT>20610</HGT>
+  </Count>
+  <Count Data="505">
+    <UTC>2012-11-11,19:16:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.132332</Lat>
+    <Lon>-81.115654</Lon>
+    <HGT>20677</HGT>
+  </Count>
+  <Count Data="506">
+    <UTC>2012-11-11,19:16:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.132732</Lat>
+    <Lon>-81.113052</Lon>
+    <HGT>20766</HGT>
+  </Count>
+  <Count Data="507">
+    <UTC>2012-11-11,19:16:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.133194</Lat>
+    <Lon>-81.109726</Lon>
+    <HGT>20839</HGT>
+  </Count>
+  <Count Data="508">
+    <UTC>2012-11-11,19:16:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.133392</Lat>
+    <Lon>-81.106735</Lon>
+    <HGT>20907</HGT>
+  </Count>
+  <Count Data="509">
+    <UTC>2012-11-11,19:17:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.133984</Lat>
+    <Lon>-81.103569</Lon>
+    <HGT>20974</HGT>
+  </Count>
+  <Count Data="510">
+    <UTC>2012-11-11,19:17:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.134628</Lat>
+    <Lon>-81.100266</Lon>
+    <HGT>21051</HGT>
+  </Count>
+  <Count Data="511">
+    <UTC>2012-11-11,19:17:51</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.135124</Lat>
+    <Lon>-81.096863</Lon>
+    <HGT>21165</HGT>
+  </Count>
+  <Count Data="512">
+    <UTC>2012-11-11,19:18:06</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.135216</Lat>
+    <Lon>-81.093079</Lon>
+    <HGT>21269</HGT>
+  </Count>
+  <Count Data="513">
+    <UTC>2012-11-11,19:18:21</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.135201</Lat>
+    <Lon>-81.089279</Lon>
+    <HGT>21381</HGT>
+  </Count>
+  <Count Data="514">
+    <UTC>2012-11-11,19:18:36</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.135357</Lat>
+    <Lon>-81.085785</Lon>
+    <HGT>21474</HGT>
+  </Count>
+  <Count Data="515">
+    <UTC>2012-11-11,19:18:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.135319</Lat>
+    <Lon>-81.082497</Lon>
+    <HGT>21567</HGT>
+  </Count>
+  <Count Data="516">
+    <UTC>2012-11-11,19:18:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.135265</Lat>
+    <Lon>-81.078964</Lon>
+    <HGT>21649</HGT>
+  </Count>
+  <Count Data="517">
+    <UTC>2012-11-11,19:19:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.134865</Lat>
+    <Lon>-81.075447</Lon>
+    <HGT>21738</HGT>
+  </Count>
+  <Count Data="518">
+    <UTC>2012-11-11,19:19:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.134281</Lat>
+    <Lon>-81.072037</Lon>
+    <HGT>21837</HGT>
+  </Count>
+  <Count Data="519">
+    <UTC>2012-11-11,19:19:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.133919</Lat>
+    <Lon>-81.06871</Lon>
+    <HGT>21912</HGT>
+  </Count>
+  <Count Data="520">
+    <UTC>2012-11-11,19:19:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.133671</Lat>
+    <Lon>-81.065155</Lon>
+    <HGT>22003</HGT>
+  </Count>
+  <Count Data="521">
+    <UTC>2012-11-11,19:20:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.133396</Lat>
+    <Lon>-81.06176</Lon>
+    <HGT>22090</HGT>
+  </Count>
+  <Count Data="522">
+    <UTC>2012-11-11,19:20:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.133461</Lat>
+    <Lon>-81.057869</Lon>
+    <HGT>22179</HGT>
+  </Count>
+  <Count Data="523">
+    <UTC>2012-11-11,19:20:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.133957</Lat>
+    <Lon>-81.053581</Lon>
+    <HGT>22258</HGT>
+  </Count>
+  <Count Data="524">
+    <UTC>2012-11-11,19:20:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.13393</Lat>
+    <Lon>-81.049721</Lon>
+    <HGT>22331</HGT>
+  </Count>
+  <Count Data="525">
+    <UTC>2012-11-11,19:21:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.13348</Lat>
+    <Lon>-81.045921</Lon>
+    <HGT>22408</HGT>
+  </Count>
+  <Count Data="526">
+    <UTC>2012-11-11,19:21:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.132896</Lat>
+    <Lon>-81.04258</Lon>
+    <HGT>22472</HGT>
+  </Count>
+  <Count Data="527">
+    <UTC>2012-11-11,19:21:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.132313</Lat>
+    <Lon>-81.039673</Lon>
+    <HGT>22547</HGT>
+  </Count>
+  <Count Data="528">
+    <UTC>2012-11-11,19:21:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.13201</Lat>
+    <Lon>-81.03641</Lon>
+    <HGT>22617</HGT>
+  </Count>
+  <Count Data="529">
+    <UTC>2012-11-11,19:22:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.132053</Lat>
+    <Lon>-81.033264</Lon>
+    <HGT>22691</HGT>
+  </Count>
+  <Count Data="530">
+    <UTC>2012-11-11,19:22:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.13176</Lat>
+    <Lon>-81.030579</Lon>
+    <HGT>22772</HGT>
+  </Count>
+  <Count Data="531">
+    <UTC>2012-11-11,19:22:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.131844</Lat>
+    <Lon>-81.027893</Lon>
+    <HGT>22844</HGT>
+  </Count>
+  <Count Data="532">
+    <UTC>2012-11-11,19:22:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.13203</Lat>
+    <Lon>-81.025383</Lon>
+    <HGT>22922</HGT>
+  </Count>
+  <Count Data="533">
+    <UTC>2012-11-11,19:23:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.132366</Lat>
+    <Lon>-81.022842</Lon>
+    <HGT>22995</HGT>
+  </Count>
+  <Count Data="534">
+    <UTC>2012-11-11,19:23:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.132462</Lat>
+    <Lon>-81.019997</Lon>
+    <HGT>23075</HGT>
+  </Count>
+  <Count Data="535">
+    <UTC>2012-11-11,19:23:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.132854</Lat>
+    <Lon>-81.017128</Lon>
+    <HGT>23143</HGT>
+  </Count>
+  <Count Data="536">
+    <UTC>2012-11-11,19:23:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.133308</Lat>
+    <Lon>-81.013771</Lon>
+    <HGT>23226</HGT>
+  </Count>
+  <Count Data="537">
+    <UTC>2012-11-11,19:24:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.13377</Lat>
+    <Lon>-81.010101</Lon>
+    <HGT>23313</HGT>
+  </Count>
+  <Count Data="538">
+    <UTC>2012-11-11,19:24:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.133972</Lat>
+    <Lon>-81.006386</Lon>
+    <HGT>23405</HGT>
+  </Count>
+  <Count Data="539">
+    <UTC>2012-11-11,19:24:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.134266</Lat>
+    <Lon>-81.003036</Lon>
+    <HGT>23491</HGT>
+  </Count>
+  <Count Data="540">
+    <UTC>2012-11-11,19:24:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.134075</Lat>
+    <Lon>-80.999939</Lon>
+    <HGT>23578</HGT>
+  </Count>
+  <Count Data="541">
+    <UTC>2012-11-11,19:25:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.133537</Lat>
+    <Lon>-80.996834</Lon>
+    <HGT>23667</HGT>
+  </Count>
+  <Count Data="542">
+    <UTC>2012-11-11,19:25:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.133087</Lat>
+    <Lon>-80.993927</Lon>
+    <HGT>23750</HGT>
+  </Count>
+  <Count Data="543">
+    <UTC>2012-11-11,19:25:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.132801</Lat>
+    <Lon>-80.990974</Lon>
+    <HGT>23832</HGT>
+  </Count>
+  <Count Data="544">
+    <UTC>2012-11-11,19:25:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.132835</Lat>
+    <Lon>-80.988297</Lon>
+    <HGT>23913</HGT>
+  </Count>
+  <Count Data="545">
+    <UTC>2012-11-11,19:26:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.13287</Lat>
+    <Lon>-80.985046</Lon>
+    <HGT>24002</HGT>
+  </Count>
+  <Count Data="546">
+    <UTC>2012-11-11,19:26:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.132874</Lat>
+    <Lon>-80.98188</Lon>
+    <HGT>24087</HGT>
+  </Count>
+  <Count Data="547">
+    <UTC>2012-11-11,19:26:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.132801</Lat>
+    <Lon>-80.978378</Lon>
+    <HGT>24165</HGT>
+  </Count>
+  <Count Data="548">
+    <UTC>2012-11-11,19:26:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.132481</Lat>
+    <Lon>-80.975128</Lon>
+    <HGT>24239</HGT>
+  </Count>
+  <Count Data="549">
+    <UTC>2012-11-11,19:27:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.13221</Lat>
+    <Lon>-80.971619</Lon>
+    <HGT>24326</HGT>
+  </Count>
+  <Count Data="550">
+    <UTC>2012-11-11,19:27:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.132034</Lat>
+    <Lon>-80.968567</Lon>
+    <HGT>24400</HGT>
+  </Count>
+  <Count Data="551">
+    <UTC>2012-11-11,19:27:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.132206</Lat>
+    <Lon>-80.965736</Lon>
+    <HGT>24479</HGT>
+  </Count>
+  <Count Data="552">
+    <UTC>2012-11-11,19:27:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.13261</Lat>
+    <Lon>-80.96257</Lon>
+    <HGT>24561</HGT>
+  </Count>
+  <Count Data="553">
+    <UTC>2012-11-11,19:28:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.132854</Lat>
+    <Lon>-80.959846</Lon>
+    <HGT>24637</HGT>
+  </Count>
+  <Count Data="554">
+    <UTC>2012-11-11,19:28:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.132965</Lat>
+    <Lon>-80.956902</Lon>
+    <HGT>24730</HGT>
+  </Count>
+  <Count Data="555">
+    <UTC>2012-11-11,19:28:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.13274</Lat>
+    <Lon>-80.954285</Lon>
+    <HGT>24809</HGT>
+  </Count>
+  <Count Data="556">
+    <UTC>2012-11-11,19:28:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.132324</Lat>
+    <Lon>-80.951698</Lon>
+    <HGT>24893</HGT>
+  </Count>
+  <Count Data="557">
+    <UTC>2012-11-11,19:29:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.13213</Lat>
+    <Lon>-80.949203</Lon>
+    <HGT>24970</HGT>
+  </Count>
+  <Count Data="558">
+    <UTC>2012-11-11,19:29:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.131531</Lat>
+    <Lon>-80.946426</Lon>
+    <HGT>25053</HGT>
+  </Count>
+  <Count Data="559">
+    <UTC>2012-11-11,19:29:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.130859</Lat>
+    <Lon>-80.943665</Lon>
+    <HGT>25124</HGT>
+  </Count>
+  <Count Data="560">
+    <UTC>2012-11-11,19:29:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.130417</Lat>
+    <Lon>-80.940552</Lon>
+    <HGT>25208</HGT>
+  </Count>
+  <Count Data="561">
+    <UTC>2012-11-11,19:30:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.129585</Lat>
+    <Lon>-80.937805</Lon>
+    <HGT>25302</HGT>
+  </Count>
+  <Count Data="562">
+    <UTC>2012-11-11,19:30:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.128994</Lat>
+    <Lon>-80.935097</Lon>
+    <HGT>25379</HGT>
+  </Count>
+  <Count Data="563">
+    <UTC>2012-11-11,19:30:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.12862</Lat>
+    <Lon>-80.932793</Lon>
+    <HGT>25455</HGT>
+  </Count>
+  <Count Data="564">
+    <UTC>2012-11-11,19:30:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.128319</Lat>
+    <Lon>-80.930283</Lon>
+    <HGT>25541</HGT>
+  </Count>
+  <Count Data="565">
+    <UTC>2012-11-11,19:31:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.128708</Lat>
+    <Lon>-80.927635</Lon>
+    <HGT>25623</HGT>
+  </Count>
+  <Count Data="566">
+    <UTC>2012-11-11,19:31:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.128681</Lat>
+    <Lon>-80.924591</Lon>
+    <HGT>25707</HGT>
+  </Count>
+  <Count Data="567">
+    <UTC>2012-11-11,19:31:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.128681</Lat>
+    <Lon>-80.92115</Lon>
+    <HGT>25788</HGT>
+  </Count>
+  <Count Data="568">
+    <UTC>2012-11-11,19:31:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.128704</Lat>
+    <Lon>-80.917313</Lon>
+    <HGT>25869</HGT>
+  </Count>
+  <Count Data="569">
+    <UTC>2012-11-11,19:32:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.128166</Lat>
+    <Lon>-80.913498</Lon>
+    <HGT>25949</HGT>
+  </Count>
+  <Count Data="570">
+    <UTC>2012-11-11,19:32:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.127213</Lat>
+    <Lon>-80.909897</Lon>
+    <HGT>26028</HGT>
+  </Count>
+  <Count Data="571">
+    <UTC>2012-11-11,19:32:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.12595</Lat>
+    <Lon>-80.906433</Lon>
+    <HGT>26112</HGT>
+  </Count>
+  <Count Data="572">
+    <UTC>2012-11-11,19:32:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.124767</Lat>
+    <Lon>-80.903748</Lon>
+    <HGT>26187</HGT>
+  </Count>
+  <Count Data="573">
+    <UTC>2012-11-11,19:33:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.123676</Lat>
+    <Lon>-80.901039</Lon>
+    <HGT>26266</HGT>
+  </Count>
+  <Count Data="574">
+    <UTC>2012-11-11,19:33:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.123055</Lat>
+    <Lon>-80.898598</Lon>
+    <HGT>26346</HGT>
+  </Count>
+  <Count Data="575">
+    <UTC>2012-11-11,19:33:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.122417</Lat>
+    <Lon>-80.896362</Lon>
+    <HGT>26427</HGT>
+  </Count>
+  <Count Data="576">
+    <UTC>2012-11-11,19:33:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.122017</Lat>
+    <Lon>-80.893684</Lon>
+    <HGT>26503</HGT>
+  </Count>
+  <Count Data="577">
+    <UTC>2012-11-11,19:34:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.121597</Lat>
+    <Lon>-80.891281</Lon>
+    <HGT>26592</HGT>
+  </Count>
+  <Count Data="578">
+    <UTC>2012-11-11,19:34:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.121159</Lat>
+    <Lon>-80.88916</Lon>
+    <HGT>26674</HGT>
+  </Count>
+  <Count Data="579">
+    <UTC>2012-11-11,19:34:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.120842</Lat>
+    <Lon>-80.886826</Lon>
+    <HGT>26761</HGT>
+  </Count>
+  <Count Data="580">
+    <UTC>2012-11-11,19:34:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.12056</Lat>
+    <Lon>-80.884445</Lon>
+    <HGT>26842</HGT>
+  </Count>
+  <Count Data="581">
+    <UTC>2012-11-11,19:35:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.120308</Lat>
+    <Lon>-80.882019</Lon>
+    <HGT>26924</HGT>
+  </Count>
+  <Count Data="582">
+    <UTC>2012-11-11,19:35:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.120079</Lat>
+    <Lon>-80.879128</Lon>
+    <HGT>27006</HGT>
+  </Count>
+  <Count Data="583">
+    <UTC>2012-11-11,19:35:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.119751</Lat>
+    <Lon>-80.876656</Lon>
+    <HGT>27089</HGT>
+  </Count>
+  <Count Data="584">
+    <UTC>2012-11-11,19:35:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.11932</Lat>
+    <Lon>-80.874329</Lon>
+    <HGT>27173</HGT>
+  </Count>
+  <Count Data="585">
+    <UTC>2012-11-11,19:36:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.119034</Lat>
+    <Lon>-80.87249</Lon>
+    <HGT>27261</HGT>
+  </Count>
+  <Count Data="586">
+    <UTC>2012-11-11,19:36:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.118786</Lat>
+    <Lon>-80.870857</Lon>
+    <HGT>27341</HGT>
+  </Count>
+  <Count Data="587">
+    <UTC>2012-11-11,19:36:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.118675</Lat>
+    <Lon>-80.869072</Lon>
+    <HGT>27420</HGT>
+  </Count>
+  <Count Data="588">
+    <UTC>2012-11-11,19:36:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.119083</Lat>
+    <Lon>-80.867393</Lon>
+    <HGT>27501</HGT>
+  </Count>
+  <Count Data="589">
+    <UTC>2012-11-11,19:37:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.119392</Lat>
+    <Lon>-80.865883</Lon>
+    <HGT>27585</HGT>
+  </Count>
+  <Count Data="590">
+    <UTC>2012-11-11,19:37:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.119625</Lat>
+    <Lon>-80.864082</Lon>
+    <HGT>27673</HGT>
+  </Count>
+  <Count Data="591">
+    <UTC>2012-11-11,19:37:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.119686</Lat>
+    <Lon>-80.862076</Lon>
+    <HGT>27752</HGT>
+  </Count>
+  <Count Data="592">
+    <UTC>2012-11-11,19:37:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.119476</Lat>
+    <Lon>-80.859535</Lon>
+    <HGT>27831</HGT>
+  </Count>
+  <Count Data="593">
+    <UTC>2012-11-11,19:38:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.118984</Lat>
+    <Lon>-80.856926</Lon>
+    <HGT>27908</HGT>
+  </Count>
+  <Count Data="594">
+    <UTC>2012-11-11,19:38:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.118893</Lat>
+    <Lon>-80.855087</Lon>
+    <HGT>27986</HGT>
+  </Count>
+  <Count Data="595">
+    <UTC>2012-11-11,19:38:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.118694</Lat>
+    <Lon>-80.853279</Lon>
+    <HGT>28066</HGT>
+  </Count>
+  <Count Data="596">
+    <UTC>2012-11-11,19:38:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.118561</Lat>
+    <Lon>-80.851395</Lon>
+    <HGT>28147</HGT>
+  </Count>
+  <Count Data="597">
+    <UTC>2012-11-11,19:39:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.118519</Lat>
+    <Lon>-80.849586</Lon>
+    <HGT>28235</HGT>
+  </Count>
+  <Count Data="598">
+    <UTC>2012-11-11,19:39:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.11861</Lat>
+    <Lon>-80.848061</Lon>
+    <HGT>28322</HGT>
+  </Count>
+  <Count Data="599">
+    <UTC>2012-11-11,19:39:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.118813</Lat>
+    <Lon>-80.846245</Lon>
+    <HGT>28419</HGT>
+  </Count>
+  <Count Data="600">
+    <UTC>2012-11-11,19:39:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.119114</Lat>
+    <Lon>-80.844238</Lon>
+    <HGT>28508</HGT>
+  </Count>
+  <Count Data="601">
+    <UTC>2012-11-11,19:40:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.119495</Lat>
+    <Lon>-80.841988</Lon>
+    <HGT>28595</HGT>
+  </Count>
+  <Count Data="602">
+    <UTC>2012-11-11,19:40:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.119896</Lat>
+    <Lon>-80.839531</Lon>
+    <HGT>28684</HGT>
+  </Count>
+  <Count Data="603">
+    <UTC>2012-11-11,19:40:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.120659</Lat>
+    <Lon>-80.837654</Lon>
+    <HGT>28786</HGT>
+  </Count>
+  <Count Data="604">
+    <UTC>2012-11-11,19:40:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.121601</Lat>
+    <Lon>-80.835945</Lon>
+    <HGT>28871</HGT>
+  </Count>
+  <Count Data="605">
+    <UTC>2012-11-11,19:41:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.122486</Lat>
+    <Lon>-80.834465</Lon>
+    <HGT>28959</HGT>
+  </Count>
+  <Count Data="606">
+    <UTC>2012-11-11,19:41:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.123127</Lat>
+    <Lon>-80.832695</Lon>
+    <HGT>29050</HGT>
+  </Count>
+  <Count Data="607">
+    <UTC>2012-11-11,19:41:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.123554</Lat>
+    <Lon>-80.830734</Lon>
+    <HGT>29138</HGT>
+  </Count>
+  <Count Data="608">
+    <UTC>2012-11-11,19:41:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.123745</Lat>
+    <Lon>-80.828842</Lon>
+    <HGT>29236</HGT>
+  </Count>
+  <Count Data="609">
+    <UTC>2012-11-11,19:42:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.123646</Lat>
+    <Lon>-80.827194</Lon>
+    <HGT>29326</HGT>
+  </Count>
+  <Count Data="610">
+    <UTC>2012-11-11,19:42:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.123821</Lat>
+    <Lon>-80.825531</Lon>
+    <HGT>29415</HGT>
+  </Count>
+  <Count Data="611">
+    <UTC>2012-11-11,19:42:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.123814</Lat>
+    <Lon>-80.824028</Lon>
+    <HGT>29498</HGT>
+  </Count>
+  <Count Data="612">
+    <UTC>2012-11-11,19:42:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.123512</Lat>
+    <Lon>-80.822586</Lon>
+    <HGT>29592</HGT>
+  </Count>
+  <Count Data="613">
+    <UTC>2012-11-11,19:43:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.123199</Lat>
+    <Lon>-80.82093</Lon>
+    <HGT>29679</HGT>
+  </Count>
+  <Count Data="614">
+    <UTC>2012-11-11,19:43:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.123131</Lat>
+    <Lon>-80.819199</Lon>
+    <HGT>29764</HGT>
+  </Count>
+  <Count Data="615">
+    <UTC>2012-11-11,19:43:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.122906</Lat>
+    <Lon>-80.817108</Lon>
+    <HGT>29851</HGT>
+  </Count>
+  <Count Data="616">
+    <UTC>2012-11-11,19:43:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.122707</Lat>
+    <Lon>-80.814697</Lon>
+    <HGT>29935</HGT>
+  </Count>
+  <Count Data="617">
+    <UTC>2012-11-11,19:44:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.122498</Lat>
+    <Lon>-80.812103</Lon>
+    <HGT>30019</HGT>
+  </Count>
+  <Count Data="618">
+    <UTC>2012-11-11,19:44:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.122257</Lat>
+    <Lon>-80.809021</Lon>
+    <HGT>30094</HGT>
+  </Count>
+  <Count Data="619">
+    <UTC>2012-11-11,19:44:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.121361</Lat>
+    <Lon>-80.805946</Lon>
+    <HGT>30168</HGT>
+  </Count>
+  <Count Data="620">
+    <UTC>2012-11-11,19:44:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.120319</Lat>
+    <Lon>-80.803215</Lon>
+    <HGT>30244</HGT>
+  </Count>
+  <Count Data="621">
+    <UTC>2012-11-11,19:45:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.119556</Lat>
+    <Lon>-80.800163</Lon>
+    <HGT>30322</HGT>
+  </Count>
+  <Count Data="622">
+    <UTC>2012-11-11,19:45:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.118969</Lat>
+    <Lon>-80.796638</Lon>
+    <HGT>30401</HGT>
+  </Count>
+  <Count Data="623">
+    <UTC>2012-11-11,19:45:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.118492</Lat>
+    <Lon>-80.793465</Lon>
+    <HGT>30483</HGT>
+  </Count>
+  <Count Data="624">
+    <UTC>2012-11-11,19:45:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.11792</Lat>
+    <Lon>-80.790924</Lon>
+    <HGT>30566</HGT>
+  </Count>
+  <Count Data="625">
+    <UTC>2012-11-11,19:46:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.117432</Lat>
+    <Lon>-80.787926</Lon>
+    <HGT>30655</HGT>
+  </Count>
+  <Count Data="626">
+    <UTC>2012-11-11,19:46:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.117249</Lat>
+    <Lon>-80.784668</Lon>
+    <HGT>30745</HGT>
+  </Count>
+  <Count Data="627">
+    <UTC>2012-11-11,19:46:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.117088</Lat>
+    <Lon>-80.78138</Lon>
+    <HGT>30833</HGT>
+  </Count>
+  <Count Data="628">
+    <UTC>2012-11-11,19:46:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.116905</Lat>
+    <Lon>-80.778366</Lon>
+    <HGT>30921</HGT>
+  </Count>
+  <Count Data="629">
+    <UTC>2012-11-11,19:47:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.116699</Lat>
+    <Lon>-80.77565</Lon>
+    <HGT>31013</HGT>
+  </Count>
+  <Count Data="630">
+    <UTC>2012-11-11,19:47:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.116505</Lat>
+    <Lon>-80.772972</Lon>
+    <HGT>31098</HGT>
+  </Count>
+  <Count Data="631">
+    <UTC>2012-11-11,19:47:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.11628</Lat>
+    <Lon>-80.770576</Lon>
+    <HGT>31180</HGT>
+  </Count>
+  <Count Data="632">
+    <UTC>2012-11-11,19:47:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.11581</Lat>
+    <Lon>-80.767555</Lon>
+    <HGT>31262</HGT>
+  </Count>
+  <Count Data="633">
+    <UTC>2012-11-11,19:48:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.115704</Lat>
+    <Lon>-80.764397</Lon>
+    <HGT>31340</HGT>
+  </Count>
+  <Count Data="634">
+    <UTC>2012-11-11,19:48:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.115578</Lat>
+    <Lon>-80.761124</Lon>
+    <HGT>31415</HGT>
+  </Count>
+  <Count Data="635">
+    <UTC>2012-11-11,19:48:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.115051</Lat>
+    <Lon>-80.75766</Lon>
+    <HGT>31488</HGT>
+  </Count>
+  <Count Data="636">
+    <UTC>2012-11-11,19:48:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.114491</Lat>
+    <Lon>-80.75396</Lon>
+    <HGT>31561</HGT>
+  </Count>
+  <Count Data="637">
+    <UTC>2012-11-11,19:49:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.113598</Lat>
+    <Lon>-80.750122</Lon>
+    <HGT>31633</HGT>
+  </Count>
+  <Count Data="638">
+    <UTC>2012-11-11,19:49:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.112843</Lat>
+    <Lon>-80.746666</Lon>
+    <HGT>31707</HGT>
+  </Count>
+  <Count Data="639">
+    <UTC>2012-11-11,19:49:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.112103</Lat>
+    <Lon>-80.743454</Lon>
+    <HGT>31783</HGT>
+  </Count>
+  <Count Data="640">
+    <UTC>2012-11-11,19:49:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.110939</Lat>
+    <Lon>-80.740509</Lon>
+    <HGT>31864</HGT>
+  </Count>
+  <Count Data="641">
+    <UTC>2012-11-11,19:50:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.10965</Lat>
+    <Lon>-80.737556</Lon>
+    <HGT>31947</HGT>
+  </Count>
+  <Count Data="642">
+    <UTC>2012-11-11,19:50:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.108341</Lat>
+    <Lon>-80.734673</Lon>
+    <HGT>32030</HGT>
+  </Count>
+  <Count Data="643">
+    <UTC>2012-11-11,19:50:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.107075</Lat>
+    <Lon>-80.731537</Lon>
+    <HGT>32114</HGT>
+  </Count>
+  <Count Data="644">
+    <UTC>2012-11-11,19:50:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.106022</Lat>
+    <Lon>-80.728371</Lon>
+    <HGT>32201</HGT>
+  </Count>
+  <Count Data="645">
+    <UTC>2012-11-11,19:51:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.104965</Lat>
+    <Lon>-80.724983</Lon>
+    <HGT>32283</HGT>
+  </Count>
+  <Count Data="646">
+    <UTC>2012-11-11,19:51:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.104244</Lat>
+    <Lon>-80.721626</Lon>
+    <HGT>32364</HGT>
+  </Count>
+  <Count Data="647">
+    <UTC>2012-11-11,19:51:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.103802</Lat>
+    <Lon>-80.718315</Lon>
+    <HGT>32443</HGT>
+  </Count>
+  <Count Data="648">
+    <UTC>2012-11-11,19:51:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.103127</Lat>
+    <Lon>-80.715118</Lon>
+    <HGT>32518</HGT>
+  </Count>
+  <Count Data="649">
+    <UTC>2012-11-11,19:52:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.102634</Lat>
+    <Lon>-80.712074</Lon>
+    <HGT>32594</HGT>
+  </Count>
+  <Count Data="650">
+    <UTC>2012-11-11,19:52:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.102592</Lat>
+    <Lon>-80.70919</Lon>
+    <HGT>32662</HGT>
+  </Count>
+  <Count Data="651">
+    <UTC>2012-11-11,19:52:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.102444</Lat>
+    <Lon>-80.706184</Lon>
+    <HGT>32730</HGT>
+  </Count>
+  <Count Data="652">
+    <UTC>2012-11-11,19:52:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.101963</Lat>
+    <Lon>-80.703033</Lon>
+    <HGT>-32737</HGT>
+  </Count>
+  <Count Data="653">
+    <UTC>2012-11-11,19:53:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.101658</Lat>
+    <Lon>-80.699944</Lon>
+    <HGT>-32671</HGT>
+  </Count>
+  <Count Data="654">
+    <UTC>2012-11-11,19:53:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.101513</Lat>
+    <Lon>-80.696754</Lon>
+    <HGT>-32604</HGT>
+  </Count>
+  <Count Data="655">
+    <UTC>2012-11-11,19:53:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.101192</Lat>
+    <Lon>-80.693924</Lon>
+    <HGT>-32537</HGT>
+  </Count>
+  <Count Data="656">
+    <UTC>2012-11-11,19:53:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.100941</Lat>
+    <Lon>-80.690735</Lon>
+    <HGT>-32473</HGT>
+  </Count>
+  <Count Data="657">
+    <UTC>2012-11-11,19:54:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.100693</Lat>
+    <Lon>-80.687813</Lon>
+    <HGT>-32404</HGT>
+  </Count>
+  <Count Data="658">
+    <UTC>2012-11-11,19:54:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.100586</Lat>
+    <Lon>-80.68502</Lon>
+    <HGT>-32336</HGT>
+  </Count>
+  <Count Data="659">
+    <UTC>2012-11-11,19:54:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.100525</Lat>
+    <Lon>-80.68219</Lon>
+    <HGT>-32259</HGT>
+  </Count>
+  <Count Data="660">
+    <UTC>2012-11-11,19:54:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.10081</Lat>
+    <Lon>-80.679314</Lon>
+    <HGT>-32183</HGT>
+  </Count>
+  <Count Data="661">
+    <UTC>2012-11-11,19:55:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.101151</Lat>
+    <Lon>-80.676064</Lon>
+    <HGT>-32108</HGT>
+  </Count>
+  <Count Data="662">
+    <UTC>2012-11-11,19:55:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.101669</Lat>
+    <Lon>-80.672714</Lon>
+    <HGT>-32030</HGT>
+  </Count>
+  <Count Data="663">
+    <UTC>2012-11-11,19:55:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.102386</Lat>
+    <Lon>-80.669403</Lon>
+    <HGT>-31951</HGT>
+  </Count>
+  <Count Data="664">
+    <UTC>2012-11-11,19:55:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.10289</Lat>
+    <Lon>-80.666245</Lon>
+    <HGT>-31873</HGT>
+  </Count>
+  <Count Data="665">
+    <UTC>2012-11-11,19:56:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.103439</Lat>
+    <Lon>-80.663116</Lon>
+    <HGT>-31799</HGT>
+  </Count>
+  <Count Data="666">
+    <UTC>2012-11-11,19:56:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.103748</Lat>
+    <Lon>-80.660065</Lon>
+    <HGT>-31726</HGT>
+  </Count>
+  <Count Data="667">
+    <UTC>2012-11-11,19:56:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.103985</Lat>
+    <Lon>-80.657028</Lon>
+    <HGT>-31658</HGT>
+  </Count>
+  <Count Data="668">
+    <UTC>2012-11-11,19:56:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.104126</Lat>
+    <Lon>-80.653763</Lon>
+    <HGT>-31591</HGT>
+  </Count>
+  <Count Data="669">
+    <UTC>2012-11-11,19:57:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.104252</Lat>
+    <Lon>-80.650299</Lon>
+    <HGT>-31530</HGT>
+  </Count>
+  <Count Data="670">
+    <UTC>2012-11-11,19:57:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.104458</Lat>
+    <Lon>-80.646599</Lon>
+    <HGT>-31472</HGT>
+  </Count>
+  <Count Data="671">
+    <UTC>2012-11-11,19:57:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.104927</Lat>
+    <Lon>-80.643181</Lon>
+    <HGT>-32091</HGT>
+  </Count>
+  <Count Data="672">
+    <UTC>2012-11-11,19:57:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.105103</Lat>
+    <Lon>-80.640068</Lon>
+    <HGT>32177</HGT>
+  </Count>
+  <Count Data="673">
+    <UTC>2012-11-11,19:58:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.104618</Lat>
+    <Lon>-80.636902</Lon>
+    <HGT>30878</HGT>
+  </Count>
+  <Count Data="674">
+    <UTC>2012-11-11,19:58:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.104164</Lat>
+    <Lon>-80.633911</Lon>
+    <HGT>29627</HGT>
+  </Count>
+  <Count Data="675">
+    <UTC>2012-11-11,19:58:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.104069</Lat>
+    <Lon>-80.63163</Lon>
+    <HGT>28487</HGT>
+  </Count>
+  <Count Data="676">
+    <UTC>2012-11-11,19:58:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.104221</Lat>
+    <Lon>-80.629517</Lon>
+    <HGT>27475</HGT>
+  </Count>
+  <Count Data="677">
+    <UTC>2012-11-11,19:59:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.104252</Lat>
+    <Lon>-80.627426</Lon>
+    <HGT>26500</HGT>
+  </Count>
+  <Count Data="678">
+    <UTC>2012-11-11,19:59:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.103718</Lat>
+    <Lon>-80.624916</Lon>
+    <HGT>25601</HGT>
+  </Count>
+  <Count Data="679">
+    <UTC>2012-11-11,19:59:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.103447</Lat>
+    <Lon>-80.621948</Lon>
+    <HGT>24704</HGT>
+  </Count>
+  <Count Data="680">
+    <UTC>2012-11-11,19:59:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.103344</Lat>
+    <Lon>-80.618797</Lon>
+    <HGT>23839</HGT>
+  </Count>
+  <Count Data="681">
+    <UTC>2012-11-11,20:00:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.103127</Lat>
+    <Lon>-80.615479</Lon>
+    <HGT>23022</HGT>
+  </Count>
+  <Count Data="682">
+    <UTC>2012-11-11,20:00:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.102875</Lat>
+    <Lon>-80.612488</Lon>
+    <HGT>22224</HGT>
+  </Count>
+  <Count Data="683">
+    <UTC>2012-11-11,20:00:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.102528</Lat>
+    <Lon>-80.60907</Lon>
+    <HGT>21461</HGT>
+  </Count>
+  <Count Data="684">
+    <UTC>2012-11-11,20:00:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.102634</Lat>
+    <Lon>-80.605972</Lon>
+    <HGT>20721</HGT>
+  </Count>
+  <Count Data="685">
+    <UTC>2012-11-11,20:01:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.103252</Lat>
+    <Lon>-80.603607</Lon>
+    <HGT>19977</HGT>
+  </Count>
+  <Count Data="686">
+    <UTC>2012-11-11,20:01:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.103832</Lat>
+    <Lon>-80.601196</Lon>
+    <HGT>19313</HGT>
+  </Count>
+  <Count Data="687">
+    <UTC>2012-11-11,20:01:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.10458</Lat>
+    <Lon>-80.599304</Lon>
+    <HGT>18720</HGT>
+  </Count>
+  <Count Data="688">
+    <UTC>2012-11-11,20:01:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.104771</Lat>
+    <Lon>-80.597282</Lon>
+    <HGT>18114</HGT>
+  </Count>
+  <Count Data="689">
+    <UTC>2012-11-11,20:02:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.105301</Lat>
+    <Lon>-80.594276</Lon>
+    <HGT>17528</HGT>
+  </Count>
+  <Count Data="690">
+    <UTC>2012-11-11,20:02:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.106041</Lat>
+    <Lon>-80.591431</Lon>
+    <HGT>16961</HGT>
+  </Count>
+  <Count Data="691">
+    <UTC>2012-11-11,20:02:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.106476</Lat>
+    <Lon>-80.588264</Lon>
+    <HGT>16429</HGT>
+  </Count>
+  <Count Data="692">
+    <UTC>2012-11-11,20:02:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.106796</Lat>
+    <Lon>-80.583244</Lon>
+    <HGT>15921</HGT>
+  </Count>
+  <Count Data="693">
+    <UTC>2012-11-11,20:03:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.107601</Lat>
+    <Lon>-80.578621</Lon>
+    <HGT>15426</HGT>
+  </Count>
+  <Count Data="694">
+    <UTC>2012-11-11,20:03:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.108551</Lat>
+    <Lon>-80.573601</Lon>
+    <HGT>14956</HGT>
+  </Count>
+  <Count Data="695">
+    <UTC>2012-11-11,20:03:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.109783</Lat>
+    <Lon>-80.568748</Lon>
+    <HGT>14490</HGT>
+  </Count>
+  <Count Data="696">
+    <UTC>2012-11-11,20:03:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.110085</Lat>
+    <Lon>-80.563034</Lon>
+    <HGT>14025</HGT>
+  </Count>
+  <Count Data="697">
+    <UTC>2012-11-11,20:04:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.111137</Lat>
+    <Lon>-80.556267</Lon>
+    <HGT>13581</HGT>
+  </Count>
+  <Count Data="698">
+    <UTC>2012-11-11,20:04:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.112488</Lat>
+    <Lon>-80.550568</Lon>
+    <HGT>13161</HGT>
+  </Count>
+  <Count Data="699">
+    <UTC>2012-11-11,20:04:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.113201</Lat>
+    <Lon>-80.546089</Lon>
+    <HGT>12755</HGT>
+  </Count>
+  <Count Data="700">
+    <UTC>2012-11-11,20:04:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.113388</Lat>
+    <Lon>-80.541222</Lon>
+    <HGT>12357</HGT>
+  </Count>
+  <Count Data="701">
+    <UTC>2012-11-11,20:05:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.113876</Lat>
+    <Lon>-80.536781</Lon>
+    <HGT>11970</HGT>
+  </Count>
+  <Count Data="702">
+    <UTC>2012-11-11,20:05:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.114346</Lat>
+    <Lon>-80.532135</Lon>
+    <HGT>11575</HGT>
+  </Count>
+  <Count Data="703">
+    <UTC>2012-11-11,20:05:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.115086</Lat>
+    <Lon>-80.52701</Lon>
+    <HGT>11196</HGT>
+  </Count>
+  <Count Data="704">
+    <UTC>2012-11-11,20:05:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.116249</Lat>
+    <Lon>-80.521957</Lon>
+    <HGT>10837</HGT>
+  </Count>
+  <Count Data="705">
+    <UTC>2012-11-11,20:06:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.117447</Lat>
+    <Lon>-80.518166</Lon>
+    <HGT>10484</HGT>
+  </Count>
+  <Count Data="706">
+    <UTC>2012-11-11,20:06:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.118538</Lat>
+    <Lon>-80.514977</Lon>
+    <HGT>10133</HGT>
+  </Count>
+  <Count Data="707">
+    <UTC>2012-11-11,20:06:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.119736</Lat>
+    <Lon>-80.511803</Lon>
+    <HGT>9786</HGT>
+  </Count>
+  <Count Data="708">
+    <UTC>2012-11-11,20:06:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.12064</Lat>
+    <Lon>-80.508682</Lon>
+    <HGT>9441</HGT>
+  </Count>
+  <Count Data="709">
+    <UTC>2012-11-11,20:07:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.121029</Lat>
+    <Lon>-80.505417</Lon>
+    <HGT>9114</HGT>
+  </Count>
+  <Count Data="710">
+    <UTC>2012-11-11,20:07:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.121292</Lat>
+    <Lon>-80.501961</Lon>
+    <HGT>8786</HGT>
+  </Count>
+  <Count Data="711">
+    <UTC>2012-11-11,20:07:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.121544</Lat>
+    <Lon>-80.498367</Lon>
+    <HGT>8460</HGT>
+  </Count>
+  <Count Data="712">
+    <UTC>2012-11-11,20:07:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.122204</Lat>
+    <Lon>-80.494598</Lon>
+    <HGT>8146</HGT>
+  </Count>
+  <Count Data="713">
+    <UTC>2012-11-11,20:08:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.123554</Lat>
+    <Lon>-80.491211</Lon>
+    <HGT>7843</HGT>
+  </Count>
+  <Count Data="714">
+    <UTC>2012-11-11,20:08:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.125145</Lat>
+    <Lon>-80.487709</Lon>
+    <HGT>7543</HGT>
+  </Count>
+  <Count Data="715">
+    <UTC>2012-11-11,20:08:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.126606</Lat>
+    <Lon>-80.484184</Lon>
+    <HGT>7237</HGT>
+  </Count>
+  <Count Data="716">
+    <UTC>2012-11-11,20:08:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.128197</Lat>
+    <Lon>-80.481033</Lon>
+    <HGT>6936</HGT>
+  </Count>
+  <Count Data="717">
+    <UTC>2012-11-11,20:09:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.130043</Lat>
+    <Lon>-80.477951</Lon>
+    <HGT>6642</HGT>
+  </Count>
+  <Count Data="718">
+    <UTC>2012-11-11,20:09:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.131935</Lat>
+    <Lon>-80.474976</Lon>
+    <HGT>6347</HGT>
+  </Count>
+  <Count Data="719">
+    <UTC>2012-11-11,20:09:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.133766</Lat>
+    <Lon>-80.472343</Lon>
+    <HGT>6058</HGT>
+  </Count>
+  <Count Data="720">
+    <UTC>2012-11-11,20:09:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.135941</Lat>
+    <Lon>-80.470016</Lon>
+    <HGT>5773</HGT>
+  </Count>
+  <Count Data="721">
+    <UTC>2012-11-11,20:10:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.138145</Lat>
+    <Lon>-80.467781</Lon>
+    <HGT>5495</HGT>
+  </Count>
+  <Count Data="722">
+    <UTC>2012-11-11,20:10:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.140465</Lat>
+    <Lon>-80.465797</Lon>
+    <HGT>5214</HGT>
+  </Count>
+  <Count Data="723">
+    <UTC>2012-11-11,20:10:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.142597</Lat>
+    <Lon>-80.46402</Lon>
+    <HGT>4945</HGT>
+  </Count>
+  <Count Data="724">
+    <UTC>2012-11-11,20:10:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.14484</Lat>
+    <Lon>-80.462456</Lon>
+    <HGT>4674</HGT>
+  </Count>
+  <Count Data="725">
+    <UTC>2012-11-11,20:11:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.14695</Lat>
+    <Lon>-80.461266</Lon>
+    <HGT>4406</HGT>
+  </Count>
+  <Count Data="726">
+    <UTC>2012-11-11,20:11:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.148872</Lat>
+    <Lon>-80.459526</Lon>
+    <HGT>4151</HGT>
+  </Count>
+  <Count Data="727">
+    <UTC>2012-11-11,20:11:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.150967</Lat>
+    <Lon>-80.457466</Lon>
+    <HGT>3896</HGT>
+  </Count>
+  <Count Data="728">
+    <UTC>2012-11-11,20:11:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.153015</Lat>
+    <Lon>-80.455399</Lon>
+    <HGT>3643</HGT>
+  </Count>
+  <Count Data="729">
+    <UTC>2012-11-11,20:12:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.155396</Lat>
+    <Lon>-80.453453</Lon>
+    <HGT>3395</HGT>
+  </Count>
+  <Count Data="730">
+    <UTC>2012-11-11,20:12:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.158012</Lat>
+    <Lon>-80.451736</Lon>
+    <HGT>3153</HGT>
+  </Count>
+  <Count Data="731">
+    <UTC>2012-11-11,20:12:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.160889</Lat>
+    <Lon>-80.449738</Lon>
+    <HGT>2910</HGT>
+  </Count>
+  <Count Data="732">
+    <UTC>2012-11-11,20:12:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.163773</Lat>
+    <Lon>-80.447815</Lon>
+    <HGT>2666</HGT>
+  </Count>
+  <Count Data="733">
+    <UTC>2012-11-11,20:13:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.166698</Lat>
+    <Lon>-80.446037</Lon>
+    <HGT>2427</HGT>
+  </Count>
+  <Count Data="734">
+    <UTC>2012-11-11,20:13:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.169456</Lat>
+    <Lon>-80.444763</Lon>
+    <HGT>2199</HGT>
+  </Count>
+  <Count Data="735">
+    <UTC>2012-11-11,20:13:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.172028</Lat>
+    <Lon>-80.443634</Lon>
+    <HGT>1974</HGT>
+  </Count>
+  <Count Data="736">
+    <UTC>2012-11-11,20:13:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.174347</Lat>
+    <Lon>-80.441895</Lon>
+    <HGT>1755</HGT>
+  </Count>
+  <Count Data="737">
+    <UTC>2012-11-11,20:14:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.176468</Lat>
+    <Lon>-80.440056</Lon>
+    <HGT>1538</HGT>
+  </Count>
+  <Count Data="738">
+    <UTC>2012-11-11,20:14:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.178299</Lat>
+    <Lon>-80.438927</Lon>
+    <HGT>1320</HGT>
+  </Count>
+  <Count Data="739">
+    <UTC>2012-11-11,20:14:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.179546</Lat>
+    <Lon>-80.438522</Lon>
+    <HGT>1105</HGT>
+  </Count>
+  <Count Data="740">
+    <UTC>2012-11-11,20:14:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.180744</Lat>
+    <Lon>-80.438568</Lon>
+    <HGT>883</HGT>
+  </Count>
+  <Count Data="741">
+    <UTC>2012-11-11,20:15:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.18182</Lat>
+    <Lon>-80.438622</Lon>
+    <HGT>665</HGT>
+  </Count>
+  <Count Data="742">
+    <UTC>2012-11-11,20:15:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.182598</Lat>
+    <Lon>-80.438774</Lon>
+    <HGT>459</HGT>
+  </Count>
+  <Count Data="743">
+    <UTC>2012-11-11,20:15:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.182922</Lat>
+    <Lon>-80.438744</Lon>
+    <HGT>282</HGT>
+  </Count>
+  <Count Data="744">
+    <UTC>2012-11-11,20:15:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.183025</Lat>
+    <Lon>-80.438713</Lon>
+    <HGT>288</HGT>
+  </Count>
+  <Count Data="745">
+    <UTC>2012-11-11,20:16:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.183025</Lat>
+    <Lon>-80.438713</Lon>
+    <HGT>288</HGT>
+  </Count>
+  <Count Data="746">
+    <UTC>2012-11-11,20:16:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.183025</Lat>
+    <Lon>-80.438713</Lon>
+    <HGT>288</HGT>
+  </Count>
+  <Count Data="747">
+    <UTC>2012-11-11,20:16:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.183025</Lat>
+    <Lon>-80.438713</Lon>
+    <HGT>288</HGT>
+  </Count>
+  <Count Data="748">
+    <UTC>2012-11-11,20:16:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.183025</Lat>
+    <Lon>-80.438713</Lon>
+    <HGT>288</HGT>
+  </Count>
+  <Count Data="749">
+    <UTC>2012-11-11,20:17:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.183025</Lat>
+    <Lon>-80.438713</Lon>
+    <HGT>288</HGT>
+  </Count>
+  <Count Data="750">
+    <UTC>2012-11-11,20:17:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>41.183025</Lat>
+    <Lon>-80.438713</Lon>
+    <HGT>288</HGT>
+  </Count>
+</dataset2>
