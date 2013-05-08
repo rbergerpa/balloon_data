@@ -3,10 +3,10 @@ import json
 
 # load a file containing one JSON object per line
 # returns an iterator of dictionaries
-# TODO make this an iterator   ###########################
 def load_json(fileName):
     with open(fileName) as f:
-        return [json.loads(line) for line in f]
+        for line in f:
+            yield json.loads(line)
 
 
 # Test application
