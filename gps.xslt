@@ -8,7 +8,7 @@
 </xsl:template>
 
 <xsl:template match="UTC">
-  <xsl:text>{"utc": "</xsl:text>
+  <xsl:text>{"time": "</xsl:text>
   <xsl:value-of select="substring-before(. , ',')" />
   <xsl:text> </xsl:text>
   <xsl:value-of select="substring-after(. , ',')" />
