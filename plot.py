@@ -25,9 +25,16 @@ gps_data = load_data('c1_gps.txt')
 logger_data = load_data('c1_data.txt')
 
 try:
-    logger_data[field].plot()
+    p = logger_data[field].plot()
 except:
-    gps_data[field].plot()
+    p = gps_data[field].plot()
+
+if len(sys.argv) == 3:
+    y_label = sys.argv[2]
+else:
+    y_label = sys.argv[1]
+
+p.set_ylabel(y_label)
+p.set_xlabel("Time")
 
 plt.show()
-

@@ -24,7 +24,15 @@ gps_data = load_data('c1_gps.txt')
 logger_data = load_data('c1_data.txt')
 
 temp = logger_data['temp3']
-height = []
 
+height = []
 for i in range(0, temp.size):
     height.append(gps_data['hgt'].asof(temp.index[i]))
+
+plt.plot(height, temp)
+
+axes = plt.axes()
+axes.set_xlabel("Temperature (Celcius)")
+axes.set_ylabel("Altitude (feet)")
+
+plt.show()
