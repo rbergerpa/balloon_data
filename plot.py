@@ -21,8 +21,13 @@ def load_data(path):
     return DataFrame(data=json_data, index=map(select_time, json_data))
 
 
-data = load_data('c1_gps.txt')
+gps_data = load_data('c1_gps.txt')
+logger_data = load_data('c1_data.txt')
 
-data[field].plot()
+try:
+    logger_data[field].plot()
+except:
+    gps_data[field].plot()
+
 plt.show()
 
