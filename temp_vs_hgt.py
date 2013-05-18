@@ -32,7 +32,7 @@ for i in range(0, temp.size):
 plt.plot(height, temp)
 
 axes = plt.axes()
-axes.set_xlabel("Temperature (Celcius)")
-axes.set_ylabel("Altitude (feet)")
+axes.set_ylabel("Temperature (Celcius)")
+axes.set_xlabel("Altitude (feet)")
 
 plt.show()
