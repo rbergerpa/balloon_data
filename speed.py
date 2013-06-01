@@ -22,16 +22,17 @@ gps_data = load_data('c1_gps.txt')
 data_speed = []
 data_timestamp = []
 data_altitude = []
-for i in range(len(gps_data)-1):
+SAMPLE_DELTA = 3
+for i in range(len(gps_data)-SAMPLE_DELTA):
     time1 = gps_data[i]['time']
     lat1 = gps_data[i]['lat']
     lon1 = gps_data[i]['lon']
     altitude1 = gps_data[i]['hgt']
 
-    time2 = gps_data[i+1]['time']
-    lat2 = gps_data[i+1]['lat']
-    lon2 = gps_data[i+1]['lon']
-    altitude2 = gps_data[i+1]['hgt']
+    time2 = gps_data[i+SAMPLE_DELTA]['time']
+    lat2 = gps_data[i+SAMPLE_DELTA]['lat']
+    lon2 = gps_data[i+SAMPLE_DELTA]['lon']
+    altitude2 = gps_data[i+SAMPLE_DELTA]['hgt']
 
     # perform calculations
     time_difference = time2 - time1
