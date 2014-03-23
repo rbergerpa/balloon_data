@@ -25,10 +25,7 @@ except:
     descending = gps_data.ix[gps_data.time >= max_altitude_time, field]
 
 
-if len(sys.argv) == 3:
-    y_label = sys.argv[2]
-else:
-    y_label = sys.argv[1]
+y_label = sys.argv[len(sys.argv)-1]
 
 # Plot specified field vs time
 p = DataFrame({'Ascending': ascending, 'Descending': descending}).plot()
