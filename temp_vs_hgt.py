@@ -8,13 +8,21 @@ import sys
 gps_data = load_json_dataframe('c1_gps.txt')
 logger_data = load_json_dataframe('c1_data.txt')
 
-temp = logger_data['temp3']
+max_altitude_time = gps_data['hgt'].idxmax()
+
+ascending_temp = logger_data.ix[logger_data.time <= max_altitude_time]['temp3']
+descending_temp = logger_data.ix[logger_data.time >= max_altitude_time]['temp3']
 
 height = []
-for i in range(0, temp.size):
-    height.append(gps_data['hgt'].asof(temp.index[i]))
+for i in range(0, ascending_temp.size):
+    height.append(gps_data['hgt'].asof(ascending_temp.index[i]))
+plt.plot(height, ascending_temp)
 
-plt.plot(height, temp)
+height = []
+for i in range(0, descending_temp.size):
+    height.append(gps_data['hgt'].asof(descending_temp.index[i]))
+plt.plot(height, descending_temp)
+
 
 axes = plt.axes()
 axes.set_ylabel("Temperature (Celcius)")

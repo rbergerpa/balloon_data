@@ -12,13 +12,15 @@ logger_data = load_json_dataframe('c1_data.txt')
 
 max_altitude_time = gps_data['hgt'].idxmax()
 
+# Set ascendeing and descending each to a Series of the specified field vs. time
 try:
-    ascending = logger_data.ix[logger_data.time <= max_altitude_time][field]
-    descending = logger_data.ix[logger_data.time >= max_altitude_time][field]
+    ascending = logger_data.ix[logger_data.time <= max_altitude_time, field]
+    descending = logger_data.ix[logger_data.time >= max_altitude_time, field]
 except:
-    ascending = gps_data.ix[gps_data.time <= max_altitude_time][field]
-    descending = gps_data.ix[gps_data.time >= max_altitude_time][field]
+    ascending = gps_data.ix[gps_data.time <= max_altitude_time , field]
+    descending = gps_data.ix[gps_data.time >= max_altitude_time, field]
 
+# Plot the ascending and descending series in different colors
 p = DataFrame({'Ascending': ascending, 'Descending': descending}).plot()
 
 if len(sys.argv) == 3:
