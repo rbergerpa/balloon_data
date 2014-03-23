@@ -34,7 +34,7 @@ plt.show()
 # Plot descent speed vs altitude
 b = by_altitude(descending, gps_data)
 b = b.ix[b.index < max_altitude - 1000] # Time window causes artifacs at the altitude peak
-p = b.plot()
+p = b.mul(-1).plot()
 p.set_ylabel("Descent Speed (MPH)")
 p.set_xlabel("Altitude")
 plt.show()
