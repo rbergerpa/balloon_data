@@ -2,21 +2,16 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 from pandas import Series, DataFrame
-from pandas_util import load_json_dataframe
+from pandas_util import load_json_dataframe, by_altitude
 import sys
-
-# Convert a series indexed by time to a series indexed by altitude, 
-#     by combining the given series with the altitude vs time from gps_data
-def by_altitude(series):
-    df = DataFrame({'Value': series, 'Altitude': gps_data.hgt.reindex(series.index, method='ffill')})
-    return df.set_index('Altitude')['Value'].sort_index()
-
 
 gps_data = load_json_dataframe('c1_gps.txt')
 logger_data = load_json_dataframe('c1_data.txt')
 
-# Use the GPS data to determine the time of maximum altitude
+
 max_altitude_time = gps_data['hgt'].idxmax()
+max_altitude = gps_data['hgt'].max()
+print "Max altitude", max_altitude, " at ", max_altitude_time
 
 field = sys.argv[1]
 
@@ -28,7 +23,6 @@ except:
     ascending = gps_data.ix[gps_data.time <= max_altitude_time , field]
     descending = gps_data.ix[gps_data.time >= max_altitude_time, field]
 
-
 y_label = sys.argv[len(sys.argv)-1]
 
 # Plot specified field vs time
@@ -38,7 +32,7 @@ p.set_xlabel("Time")
 
 # Plot specified field vs altitude
 if field != 'hgt':
-    p = DataFrame({'Ascending': by_altitude(ascending), 'Descending': by_altitude(descending)}).plot()
+    p = DataFrame({'Ascending': by_altitude(ascending, gps_data), 'Descending': by_altitude(descending, gps_data)}).plot()
     p.set_ylabel(y_label)
     p.set_xlabel("Altitude")
 
