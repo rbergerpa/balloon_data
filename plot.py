@@ -20,14 +20,21 @@ def load_data(path):
 
     return DataFrame(data=json_data, index=map(select_time, json_data))
 
-
 gps_data = load_data('c1_gps.txt')
 logger_data = load_data('c1_data.txt')
 
+max_altitude_time = gps_data['hgt'].idxmax()
+
 try:
-    p = logger_data[field].plot()
+    ascending = logger_data.ix[logger_data.time <= max_altitude_time][field]
+    descending = logger_data.ix[logger_data.time >= max_altitude_time][field]
 except:
-    p = gps_data[field].plot()
+    ascending = gps_data.ix[gps_data.time <= max_altitude_time][field]
+    descending = gps_data.ix[gps_data.time >= max_altitude_time][field]
+
+data = DataFrame({'Ascending': ascending, 'Descending': descending})
+
+p = data.plot()
 
 if len(sys.argv) == 3:
     y_label = sys.argv[2]

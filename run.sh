@@ -10,3 +10,4 @@ python plot.py temp3 "Temperature (Celsius)"
 
 python temp_vs_hgt.py
 
+python speed.py
